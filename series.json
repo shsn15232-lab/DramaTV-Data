@@ -1,1 +1,144 @@
-
+{
+  "series": [
+    {
+      "title": "مسلسل أخي",
+      "category_file": "section_turkish_dubbed.txt",
+      "category": "turkish_dubbed",
+      "seasons": [1],
+      "episodes": [
+        {
+          "title": "أخي - الحلقة 1",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e01",
+          "season": 1,
+          "episodeNumber": 1
+        },
+        {
+          "title": "أخي - الحلقة 2",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e02",
+          "season": 1,
+          "episodeNumber": 2
+        },
+        {
+          "title": "أخي - الحلقة 3",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e03",
+          "season": 1,
+          "episodeNumber": 3
+        },
+        {
+          "title": "أخي - الحلقة 4",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e04",
+          "season": 1,
+          "episodeNumber": 4
+        },
+        {
+          "title": "أخي - الحلقة 5",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e05",
+          "season": 1,
+          "episodeNumber": 5
+        },
+        {
+          "title": "أخي - الحلقة 6",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e06",
+          "season": 1,
+          "episodeNumber": 6
+        },
+        {
+          "title": "أخي - الحلقة 7",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e07",
+          "season": 1,
+          "episodeNumber": 7
+        },
+        {
+          "title": "أخي - الحلقة 8",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e08",
+          "season": 1,
+          "episodeNumber": 8
+        },
+        {
+          "title": "أخي - الحلقة 9",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e09",
+          "season": 1,
+          "episodeNumber": 9
+        },
+        {
+          "title": "أخي - الحلقة 10",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e10",
+          "season": 1,
+          "episodeNumber": 10
+        },
+        {
+          "title": "أخي - الحلقة 11",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e11",
+          "season": 1,
+          "episodeNumber": 11
+        },
+        {
+          "title": "أخي - الحلقة 12",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e12",
+          "season": 1,
+          "episodeNumber": 12
+        },
+        {
+          "title": "أخي - الحلقة 13",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e13",
+          "season": 1,
+          "episodeNumber": 13
+        },
+        {
+          "title": "أخي - الحلقة 14",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e14",
+          "season": 1,
+          "episodeNumber": 14
+        },
+        {
+          "title": "أخي - الحلقة 15",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e15",
+          "season": 1,
+          "episodeNumber": 15
+        },
+        {
+          "title": "أخي - الحلقة 16",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e16",
+          "season": 1,
+          "episodeNumber": 16
+        },
+        {
+          "title": "أخي - الحلقة 17",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e17",
+          "season": 1,
+          "episodeNumber": 17
+        },
+        {
+          "title": "أخي - الحلقة 18",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e18",
+          "season": 1,
+          "episodeNumber": 18
+        },
+        {
+          "title": "أخي - الحلقة 19",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e19",
+          "season": 1,
+          "episodeNumber": 19
+        },
+        {
+          "title": "أخي - الحلقة 20",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e20",
+          "season": 1,
+          "episodeNumber": 20
+        },
+        {
+          "title": "أخي - الحلقة 21",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e21",
+          "season": 1,
+          "episodeNumber": 21
+        },
+        {
+          "title": "أخي - الحلقة 22",
+          "url": "https://w.anaplayer.online/albaplayer/a-b-i-2026-s01e22",
+          "season": 1,
+          "episodeNumber": 22
+        }
+      ]
+    }
+  ]
+}
