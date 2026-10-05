@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "turkish_dubbed",
+      "name": "تركي ومدبلج"
+    },
+    {
+      "id": "syrian_lebanese",
+      "name": "سوري ولبناني"
+    },
+    {
+      "id": "egyptian",
+      "name": "مصري"
+    },
+    {
+      "id": "gulf",
+      "name": "خليجي"
+    },
+    {
+      "id": "other_general",
+      "name": "أخرى وعامة"
+    }
+  ]
+}
