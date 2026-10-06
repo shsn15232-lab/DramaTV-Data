@@ -1,40 +1,156 @@
-📺 مسلسل: مسلسل اسطنبول رأسا على عقب مدبلج
-==================================================
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 1
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e01
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 2
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e02
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 3
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e03
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 4
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e04
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 5
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e05
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 6
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e06
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 7
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e07
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 8
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e08
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 9
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e09
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 10
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e10
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 11
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e11
-
-- اسطنبول رأسا على عقب مدبلج - الحلقة 12
-  🔗 https://shooof.site/albaplayer/different-lives-2026-s01e12
-
-==================================================
+{
+  "series": [
+    {
+      "title": "مسلسل اسطنبول رأسا على عقب مدبلج",
+      "category_file": "section_turkish_dubbed.txt",
+      "category": "turkish_dubbed",
+      "seasons": [1],
+      "episodes": [
+        {
+          "title": "الحلقة 1",
+          "season": 1,
+          "episodeNumber": 1,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e01",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 2",
+          "season": 1,
+          "episodeNumber": 2,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e02",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 3",
+          "season": 1,
+          "episodeNumber": 3,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e03",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 4",
+          "season": 1,
+          "episodeNumber": 4,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e04",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 5",
+          "season": 1,
+          "episodeNumber": 5,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e05",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 6",
+          "season": 1,
+          "episodeNumber": 6,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e06",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 7",
+          "season": 1,
+          "episodeNumber": 7,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e07",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 8",
+          "season": 1,
+          "episodeNumber": 8,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e08",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 9",
+          "season": 1,
+          "episodeNumber": 9,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e09",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 10",
+          "season": 1,
+          "episodeNumber": 10,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e10",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 11",
+          "season": 1,
+          "episodeNumber": 11,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e11",
+              "type": "iframe"
+            }
+          ]
+        },
+        {
+          "title": "الحلقة 12",
+          "season": 1,
+          "episodeNumber": 12,
+          "servers": [
+            {
+              "name": "سيرفر مشغل أساسي",
+              "url": "https://shooof.site/albaplayer/different-lives-2026-s01e12",
+              "type": "iframe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
