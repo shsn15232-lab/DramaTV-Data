@@ -1,0 +1,183 @@
+{
+  "channels": [
+    {
+      "id": "mbc_1",
+      "title": "MBC 1",
+      "subtitle": "بث مباشر",
+      "videoUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+      "category": "عامة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/MBC_1_logo.svg/512px-MBC_1_logo.svg.png"
+    },
+    {
+      "id": "mbc_iraq",
+      "title": "MBC العراق",
+      "subtitle": "بث مباشر",
+      "videoUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+      "category": "عامة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MBC_Iraq_logo.svg/512px-MBC_Iraq_logo.svg.png"
+    },
+    {
+      "id": "mbc_plus_drama",
+      "title": "MBC+ Drama",
+      "subtitle": "دراما • مباشر",
+      "videoUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
+      "category": "عامة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MBC%2B_Drama_logo.svg/512px-MBC%2B_Drama_logo.svg.png"
+    },
+    {
+      "id": "mbc_masr",
+      "title": "MBC مصر",
+      "subtitle": "بث مباشر",
+      "videoUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+      "category": "عامة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/MBC_Masr_logo.svg/512px-MBC_Masr_logo.svg.png"
+    },
+    {
+      "id": "mbc_drama",
+      "title": "MBC Drama",
+      "subtitle": "دراما • مباشر",
+      "videoUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8",
+      "category": "عامة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MBC_Drama_logo.svg/512px-MBC_Drama_logo.svg.png"
+    },
+    {
+      "id": "mbc_bollywood",
+      "title": "MBC Bollywood",
+      "subtitle": "بوليوود • مباشر",
+      "videoUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+      "category": "عامة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/MBC_Bollywood_logo.svg/512px-MBC_Bollywood_logo.svg.png"
+    },
+    {
+      "id": "mbc_4",
+      "title": "MBC 4",
+      "subtitle": "بث مباشر",
+      "videoUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+      "category": "عامة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_4_logo.svg/512px-MBC_4_logo.svg.png"
+    },
+
+    {
+      "id": "iraqia",
+      "title": "العراقية",
+      "subtitle": "شبكة الإعلام العراقي",
+      "videoUrl": "https://imn-live.esite-lab.com/hls/iraqia-general.m3u8?sid=rdmcy5e6mok2j3ab",
+      "category": "العراق",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Al-Iraqiya_logo.svg/512px-Al-Iraqiya_logo.svg.png"
+    },
+    {
+      "id": "iraqia_news",
+      "title": "العراقية الإخبارية",
+      "subtitle": "أخبار العراق",
+      "videoUrl": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8?sid=rdmcy5e6mok2j3ab",
+      "category": "العراق",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Al-Iraqiya_logo.svg/512px-Al-Iraqiya_logo.svg.png"
+    },
+    {
+      "id": "utv",
+      "title": "UTV العراق",
+      "subtitle": "قناة عراقية",
+      "videoUrl": "https://utviraqi-live.lg.mncdn.com/utviraqi2/64c80359/index.m3u8",
+      "category": "العراق",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UTV_Iraq_logo.png/512px-UTV_Iraq_logo.png"
+    },
+    {
+      "id": "dijlah",
+      "title": "دجلة",
+      "subtitle": "قناة عراقية",
+      "videoUrl": "https://ghaasiflu.online/Dijlah/index.m3u8",
+      "category": "العراق",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dijlah_TV_logo.png/512px-Dijlah_TV_logo.png"
+    },
+    {
+      "id": "al_rasheed",
+      "title": "الرشيد HD",
+      "subtitle": "قناة عراقية",
+      "videoUrl": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
+      "category": "العراق",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Al_Rasheed_TV_logo.png/512px-Al_Rasheed_TV_logo.png"
+    },
+    {
+      "id": "alabbassia",
+      "title": "العباسية",
+      "subtitle": "قناة عراقية",
+      "videoUrl": "https://stream.alabbassia.com/live/alabbassia/main_stream.m3u8",
+      "category": "العراق",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Al_Abbasia_TV_logo.png/512px-Al_Abbasia_TV_logo.png"
+    },
+    {
+      "id": "alsumaria",
+      "title": "السومرية",
+      "subtitle": "قناة عراقية",
+      "videoUrl": "https://live.kwikmotion.com/alsumariatvlive/sumariamob.smil/playlist.m3u8?hdnts=exp=1790386291~acl=/alsumariatvlive/sumariamob.smil/*~hmac=1d7426b16caec87d4e3c550d2d44c111021709bf21f0c12ba40ed151287f91c0",
+      "category": "العراق",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Alsumaria_TV_logo.png/512px-Alsumaria_TV_logo.png"
+    },
+
+    {
+      "id": "iraqia_sports",
+      "title": "العراقية الرياضية",
+      "subtitle": "رياضة عراقية",
+      "videoUrl": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+      "category": "الرياضة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Al-Iraqiya_logo.svg/512px-Al-Iraqiya_logo.svg.png"
+    },
+    {
+      "id": "jordan_sport",
+      "title": "Jordan Sport",
+      "subtitle": "قناة رياضية",
+      "videoUrl": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+      "category": "الرياضة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jordan_Sport_logo.png/512px-Jordan_Sport_logo.png"
+    },
+    {
+      "id": "sport_2",
+      "title": "الرياضة 2",
+      "subtitle": "قناة رياضية",
+      "videoUrl": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+      "category": "الرياضة",
+      "logoUrl": ""
+    },
+    {
+      "id": "bein_xtra",
+      "title": "beIN XTRA",
+      "subtitle": "رياضة • مباشر",
+      "videoUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "category": "الرياضة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+    },
+    {
+      "id": "alkass",
+      "title": "الكأس الرياضية",
+      "subtitle": "Al Kass Sports",
+      "videoUrl": "https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_1080p_ts/hdntl=exp=1790500187~acl=%2F*~data=hdntl~hmac=78e1de2ac29bf50ed5f50641a7684a8f948eee1aa77dbdbd180a95b7cfad25e9/index-1.m3u8",
+      "category": "الرياضة",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Alkass_logo.png/512px-Alkass_logo.png"
+    },
+
+    {
+      "id": "iraqia_kurdish",
+      "title": "العراقية الكردية",
+      "subtitle": "بث مباشر",
+      "videoUrl": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8?sid=nfnxq3utmpb86051",
+      "category": "منوع",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Al-Iraqiya_logo.svg/512px-Al-Iraqiya_logo.svg.png"
+    },
+    {
+      "id": "iraqia_turkmen",
+      "title": "العراقية التركمانية",
+      "subtitle": "بث مباشر",
+      "videoUrl": "https://imn-live.esite-lab.com/hls/iraqia-turkmen.m3u8?sid=o6zpqzmumpcfoslt",
+      "category": "منوع",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Al-Iraqiya_logo.svg/512px-Al-Iraqiya_logo.svg.png"
+    },
+    {
+      "id": "iraqia_syriac",
+      "title": "العراقية السريانية",
+      "subtitle": "بث مباشر",
+      "videoUrl": "https://imn-live.esite-lab.com/hls/iraqia-syriac.m3u8?sid=guiukysdmpb38igu",
+      "category": "منوع",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Al-Iraqiya_logo.svg/512px-Al-Iraqiya_logo.svg.png"
+    }
+  ]
+}
