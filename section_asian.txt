@@ -1,1 +1,22 @@
-
+{
+  "category": "مسلسلات آسيوية",
+  "series": [
+    {
+      "title": "مسلسل اختبار آسيوي DramaTV",
+      "episodes": [
+        {
+          "title": "الحلقة 1",
+          "url": "https://example.com/asian-test-1.mp4",
+          "season": 1,
+          "episode": 1
+        },
+        {
+          "title": "الحلقة 2",
+          "url": "https://example.com/asian-test-2.mp4",
+          "season": 1,
+          "episode": 2
+        }
+      ]
+    }
+  ]
+}
