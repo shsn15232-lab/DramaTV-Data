@@ -1,1 +1,10 @@
-
+{
+  "movies": [
+    {
+      "title": "فيلم اختبار DramaTV",
+      "url": "https://example.com/test-movie.mp4",
+      "posterUrl": "",
+      "category": "أجنبي"
+    }
+  ]
+}
