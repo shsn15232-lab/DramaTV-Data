@@ -1,1 +1,17 @@
-
+{
+  "title": "مسلسل اختبار DramaTV",
+  "episodes": [
+    {
+      "title": "الحلقة 1",
+      "url": "https://example.com/test-episode-1.mp4",
+      "season": 1,
+      "episode": 1
+    },
+    {
+      "title": "الحلقة 2",
+      "url": "https://example.com/test-episode-2.mp4",
+      "season": 1,
+      "episode": 2
+    }
+  ]
+}
