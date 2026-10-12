@@ -4968,20 +4968,14 @@
         ]
     },
     "حصري": {
-        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%b0%d8%a6%d8%a7%d8%a8/",
-        "poster": "https://shooflive.net/wp-content/uploads/2026/10/kurtlar-vadisi-Cover-671x377.webp",
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d8%a9/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/10/Tek-Turkiye_Cover-671x377.webp",
         "episodes": [
             {
-                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%b0%d8%a6%d8%a7%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-                "direct_video": "https://shooof.site/albaplayer/kurtlar.vadisi.S01E01",
-                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/10/kurtlar-vadisi-Cover-671x377.webp",
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/tek.trkiye.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/10/Tek-Turkiye_Cover-671x377.webp",
                 "title": "الحلقة 1"
-            },
-            {
-                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%b0%d8%a6%d8%a7%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-                "direct_video": "https://shooof.site/albaplayer/kurtlar.vadisi.S01E02",
-                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/10/kurtlar-vadisi-Cover-671x377.webp",
-                "title": "الحلقة 2"
             }
         ]
     },
@@ -6272,6 +6266,732 @@
                 "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E05",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
                 "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E15",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E14",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E12",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 11"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E11",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 12"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 13"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 14"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E13",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 15"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E16",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 16"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E17",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 17"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E18",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 18"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E19",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 19"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E21",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 20"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E20",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 21"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E24",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 22"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E22",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 23"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E23",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 24"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-25-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E25",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 25"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-27-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E27",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 26"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-26-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E26",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 27"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-28-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/secrets.of.an.angel.S01E28",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
+                "title": "الحلقة 28"
+            }
+        ]
+    },
+    "المدرب": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/the.coach.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            }
+        ]
+    },
+    "معركة وطن": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E11",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 11"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E12",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 12"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E13",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 13"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E14",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 14"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E15",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 15"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E16",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 16"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E17",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 17"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/mahsusa.S01E18",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
+                "title": "الحلقة 18"
+            }
+        ]
+    },
+    "طيف إسطنبول": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac/",
+                "direct_video": "https://shooof.site/albaplayer/ethos.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac/",
+                "direct_video": "https://shooof.site/albaplayer/ethos.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac/",
+                "direct_video": "https://shooof.site/albaplayer/ethos.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac/",
+                "direct_video": "https://shooof.site/albaplayer/ethos.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac/",
+                "direct_video": "https://shooof.site/albaplayer/ethos.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac/",
+                "direct_video": "https://shooof.site/albaplayer/ethos.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac/",
+                "direct_video": "https://shooof.site/albaplayer/ethos.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac/",
+                "direct_video": "https://shooof.site/albaplayer/ethos.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            }
+        ]
+    },
+    "المتدرب": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/cirak.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            }
+        ]
+    },
+    "البحر الأخضر": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E11",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 11"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E12",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 12"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E13",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 13"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E14",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 14"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E15",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 15"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E16",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 16"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E17",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 17"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E18",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 18"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E19",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 19"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E20",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 20"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E21",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 21"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E22",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 22"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E23",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 23"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E24",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 24"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-25-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E25",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 25"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-26-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E26",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 26"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-27-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E27",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 27"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-28-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E28",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 28"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-29-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E29",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 29"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-30-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E30",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 30"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-31-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E31",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 31"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-32-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E32",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 32"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-33-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/yeil.deniz.S01E33",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
+                "title": "الحلقة 33"
+            }
+        ]
+    },
+    "صلاح الدين الأيوبي فاتح القدس": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7%d9%84/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7%d9%84-2/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7%d9%84-3/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7%d9%84-4/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7%d9%84-5/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7%d9%84-6/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7%d9%84-7/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7%d9%84-8/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7%d9%84-9/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7-10/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7-11/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E11",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 11"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7-12/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E12",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 12"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%a7-13/",
+                "direct_video": "https://shooof.site/albaplayer/saladn.the.conqueror.of.jerusalem.S01E13",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
+                "title": "الحلقة 13"
             }
         ]
     }
