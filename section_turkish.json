@@ -27,7 +27,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/10/kurtlar-vadisi-Cover-671x377.webp",
                 "title": "الحلقة 4"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حصري مسلسل وادي الذئاب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%b0%d8%a6%d8%a7%d8%a8/"
     },
     "قريباً مسلسل كارما": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a7%d8%b1%d9%85%d8%a7/",
@@ -45,7 +47,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/09/Karma-Cover-671x377.webp",
                 "title": "الحلقة 2"
             }
-        ]
+        ],
+        "description": "قصة وأحداث قريباً مسلسل كارما مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a7%d8%b1%d9%85%d8%a7/"
     },
     "حياة الآخرين": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d8%a7%d8%a9-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1%d9%8a%d9%86/",
@@ -69,7 +73,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Baskalarinin-Hayati-Cover-671x377.webp",
                 "title": "الحلقة 3"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حياة الآخرين مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d8%a7%d8%a9-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1%d9%8a%d9%86/"
     },
     "المعلمة أومور": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d8%a9-%d8%a3%d9%88%d9%85%d9%88%d8%b1/",
@@ -93,7 +99,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Omur-Usta-COVER-1-671x377.webp",
                 "title": "الحلقة 3"
             }
-        ]
+        ],
+        "description": "قصة وأحداث المعلمة أومور مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d8%a9-%d8%a3%d9%88%d9%85%d9%88%d8%b1/"
     },
     "حصري مسلسل الزواج جميل": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac-%d8%ac%d9%85%d9%8a%d9%84/",
@@ -141,7 +149,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Evlilik-Guzeldir-2026-POSTER-671x377.webp",
                 "title": "الحلقة 7"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حصري مسلسل الزواج جميل مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac-%d8%ac%d9%85%d9%8a%d9%84/"
     },
     "حيث تشرق الشمس": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d8%ab-%d8%aa%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%b4%d9%85%d8%b3/",
@@ -170,8 +180,16 @@
                 "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d8%ab-%d8%aa%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%b4%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
                 "direct_video": "https://shooof.site/albaplayer/gunesin.dogdugu.yer.S01E04",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/09/GUNESIN-DOGDUGU-YER-COVER-671x377.webp"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d8%ab-%d8%aa%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%b4%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/gunesin.dogdugu.yer.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/09/GUNESIN-DOGDUGU-YER-COVER-671x377.webp",
+                "title": "الحلقة 5"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حيث تشرق الشمس مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d8%ab-%d8%aa%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%b4%d9%85%d8%b3/"
     },
     "القبيحة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%82%d8%a8%d9%8a%d8%ad%d8%a9/",
@@ -243,7 +261,9 @@
                 "direct_video": "https://shooof.site/albaplayer/cirkin-2026-s01e11",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/03/Cirkin-cover-671x377.png"
             }
-        ]
+        ],
+        "description": "قصة وأحداث القبيحة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%82%d8%a8%d9%8a%d8%ad%d8%a9/"
     },
     "علي كارا": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d9%8a-%d9%83%d8%a7%d8%b1%d8%a7/",
@@ -309,7 +329,9 @@
                 "direct_video": "https://shooof.site/albaplayer/Alikara.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Alikara-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث علي كارا مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d9%8a-%d9%83%d8%a7%d8%b1%d8%a7/"
     },
     "حريم السلطان": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86/",
@@ -447,7 +469,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/09/The-Magnificent-Century-COVER-671x377.webp",
                 "title": "الحلقة 22"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حريم السلطان مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86/"
     },
     "تحت الارض": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%a7%d8%b1%d8%b6/",
@@ -573,7 +597,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/09/YERALTI_COVER-671x377.webp",
                 "title": "الحلقة 20"
             }
-        ]
+        ],
+        "description": "قصة وأحداث تحت الارض مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%a7%d8%b1%d8%b6/"
     },
     "حبك نار": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8%d9%83-%d9%86%d8%a7%d8%b1/",
@@ -621,7 +647,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Sevdan-Bir-Ates-Cover-671x377.webp",
                 "title": "الحلقة 7"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حبك نار مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8%d9%83-%d9%86%d8%a7%d8%b1/"
     },
     "في السابعة عشر": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1/",
@@ -747,7 +775,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Daha-17-2026-Cover-671x377.webp",
                 "title": "الحلقة 20"
             }
-        ]
+        ],
+        "description": "قصة وأحداث في السابعة عشر مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1/"
     },
     "الكرامة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85%d8%a9/",
@@ -789,7 +819,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Haysiyet-2026-COVER-671x378.webp",
                 "title": "الحلقة 6"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الكرامة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85%d8%a9/"
     },
     "قهوة مالحة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%82%d9%87%d9%88%d8%a9-%d9%85%d8%a7%d9%84%d8%ad%d8%a9/",
@@ -837,7 +869,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Tuzlu-Kahve-2026-COVER-1-671x378.webp",
                 "title": "الحلقة 7"
             }
-        ]
+        ],
+        "description": "قصة وأحداث قهوة مالحة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%82%d9%87%d9%88%d8%a9-%d9%85%d8%a7%d9%84%d8%ad%d8%a9/"
     },
     "حب محتمل": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d9%85%d8%ad%d8%aa%d9%85%d9%84/",
@@ -944,8 +978,16 @@
                 "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d9%85%d8%ad%d8%aa%d9%85%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
                 "direct_video": "https://shooof.site/albaplayer/muhtemel-ask-2026-s01e17",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Possible-Love-2026-Cover-671x377.webp"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d9%85%d8%ad%d8%aa%d9%85%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/muhtemel-ask-2026-s01e18",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Possible-Love-2026-Cover-671x377.webp",
+                "title": "الحلقة 18"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حب محتمل مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d9%85%d8%ad%d8%aa%d9%85%d9%84/"
     },
     "انت من احب": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%86%d8%aa-%d9%85%d9%86-%d8%a7%d8%ad%d8%a8/",
@@ -1070,8 +1112,16 @@
                 "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%86%d8%aa-%d9%85%d9%86-%d8%a7%d8%ad%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
                 "direct_video": "https://shooof.site/albaplayer/sevdigim-sensin-2026-s01e20",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/Sevdigim-Sensin-2-671x377.webp"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%86%d8%aa-%d9%85%d9%86-%d8%a7%d8%ad%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/sevdigim-sensin-2026-s01e21",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/Sevdigim-Sensin-2-671x377.webp",
+                "title": "الحلقة 21"
             }
-        ]
+        ],
+        "description": "قصة وأحداث انت من احب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%86%d8%aa-%d9%85%d9%86-%d8%a7%d8%ad%d8%a8/"
     },
     "هذا البحر سوف يفيض": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%b3%d9%88%d9%81-%d9%8a%d9%81%d9%8a%d8%b6/",
@@ -1275,7 +1325,9 @@
                 "direct_video": "https://shooof.site/albaplayer/tasacak-bu-deniz-2025-s01e33",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/Tasacak-Bu-Deniz-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث هذا البحر سوف يفيض مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%b3%d9%88%d9%81-%d9%8a%d9%81%d9%8a%d8%b6/"
     },
     "الأعراف": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d8%b1%d8%a7%d9%81/",
@@ -1491,7 +1543,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/ARAFTA-SEASON-2-Cover-671x377.webp",
                 "title": "الحلقة 35"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الأعراف مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d8%b1%d8%a7%d9%81/"
     },
     "المنظمة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%85%d8%a9/",
@@ -1737,7 +1791,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/Teskilat-Poster-671x377.webp",
                 "title": "الحلقة 40"
             }
-        ]
+        ],
+        "description": "قصة وأحداث المنظمة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%85%d8%a9/"
     },
     "إسطنبول رأساً على عقب": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%b1%d8%a3%d8%b3%d8%a7%d9%8b-%d8%b9%d9%84%d9%89-%d8%b9%d9%82%d8%a8/",
@@ -1845,7 +1901,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Alti-Ustu-Istanbul-2026-Cover-671x377.webp",
                 "title": "الحلقة 17"
             }
-        ]
+        ],
+        "description": "قصة وأحداث إسطنبول رأساً على عقب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%b1%d8%a3%d8%b3%d8%a7%d9%8b-%d8%b9%d9%84%d9%89-%d8%b9%d9%82%d8%a8/"
     },
     "اخي": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%ae%d9%8a/",
@@ -1989,7 +2047,9 @@
                 "direct_video": "https://shooof.site/albaplayer/a-b-i-2026-s01e23",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/A.B.I.-2-COVER-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث اخي مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%ae%d9%8a/"
     },
     "السعادة العائلية": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d9%84%d9%8a%d8%a9/",
@@ -2073,7 +2133,9 @@
                 "direct_video": "https://shooof.site/albaplayer/family-joy-2025-s01e13",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Family-Joy-2025-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث السعادة العائلية مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d9%84%d9%8a%d8%a9/"
     },
     "حالة اجتماعية": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9/",
@@ -2199,7 +2261,9 @@
                 "direct_video": "https://shooof.site/albaplayer/akmz.yeter.S02E20",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Askimiz-Yeter-2023-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حالة اجتماعية مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9/"
     },
     "الممثل المساعد": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af/",
@@ -2265,7 +2329,9 @@
                 "direct_video": "https://shooof.site/albaplayer/The.Supporting.Actor.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yardimci-Oyuncu-2023-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الممثل المساعد مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af/"
     },
     "وجدان": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%af%d8%a7%d9%86/",
@@ -2331,7 +2397,9 @@
                 "direct_video": "https://shooof.site/albaplayer/another.chance.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Viicdansiz-2025-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث وجدان مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%af%d8%a7%d9%86/"
     },
     "ملحمة الشجرة السوداء": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%a7%d9%84%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d8%a1/",
@@ -2421,7 +2489,9 @@
                 "direct_video": "https://shooof.site/albaplayer/legend.of.the.black.tree.S01E15",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Legend-of-the-Black-Tree-2024-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث ملحمة الشجرة السوداء مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%a7%d9%84%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d8%a1/"
     },
     "محمد الفاتح سلطان الفتوحات": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad-%d8%b3%d9%84%d8%b7%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d8%aa%d9%88%d8%ad%d8%a7%d8%aa/",
@@ -2661,7 +2731,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/Mehmed-Fetihler-Sultani-Cover-1-671x378.webp",
                 "title": "الحلقة 39"
             }
-        ]
+        ],
+        "description": "قصة وأحداث محمد الفاتح سلطان الفتوحات مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad-%d8%b3%d9%84%d8%b7%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d8%aa%d9%88%d8%ad%d8%a7%d8%aa/"
     },
     "انتقام المافيا": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%a7%d9%81%d9%8a%d8%a7/",
@@ -2727,7 +2799,9 @@
                 "direct_video": "https://shooof.site/albaplayer/marnali.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Marnali-2024-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث انتقام المافيا مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%a7%d9%81%d9%8a%d8%a7/"
     },
     "الشجاع": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b4%d8%ac%d8%a7%d8%b9/",
@@ -2775,7 +2849,9 @@
                 "direct_video": "https://w.anaplayer.online/albaplayer/delikanli-2026-s01e07",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/04/Delikanli-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الشجاع مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b4%d8%ac%d8%a7%d8%b9/"
     },
     "الغريب": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ba%d8%b1%d9%8a%d8%a8/",
@@ -2841,7 +2917,9 @@
                 "direct_video": "https://shooof.site/albaplayer/serhat.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Serhat-2023-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الغريب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ba%d8%b1%d9%8a%d8%a8/"
     },
     "جلال الدين الرومي": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ac%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%b1%d9%88%d9%85%d9%8a/",
@@ -3027,7 +3105,9 @@
                 "direct_video": "https://shooof.site/albaplayer/mevlana.rumi.S01E30",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mevlana-Celaleddin-i-Rumi-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث جلال الدين الرومي مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ac%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%b1%d9%88%d9%85%d9%8a/"
     },
     "البوابة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d9%88%d8%a7%d8%a8%d8%a9/",
@@ -3093,7 +3173,9 @@
                 "direct_video": "https://shooof.site/albaplayer/kapi.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Kapi-2023-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث البوابة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d9%88%d8%a7%d8%a8%d8%a9/"
     },
     "ورود وذنوب": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%b1%d9%88%d8%af-%d9%88%d8%b0%d9%86%d9%88%d8%a8/",
@@ -3321,7 +3403,9 @@
                 "direct_video": "https://shooof.site/albaplayer/guller-ve-gunahlar-2025-s01e37",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/Guller-ve-Gunahlar-2-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث ورود وذنوب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%b1%d9%88%d8%af-%d9%88%d8%b0%d9%86%d9%88%d8%a8/"
     },
     "الهروب من المنفى": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%87%d8%b1%d9%88%d8%a8-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d9%86%d9%81%d9%89/",
@@ -3387,7 +3471,9 @@
                 "direct_video": "https://shooof.site/albaplayer/Surgunler.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Surgunler-2025-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الهروب من المنفى مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%87%d8%b1%d9%88%d8%a8-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d9%86%d9%81%d9%89/"
     },
     "الستار": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%aa%d8%a7%d8%b1/",
@@ -3453,7 +3539,9 @@
                 "direct_video": "https://shooof.site/albaplayer/sebeke.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Sebeke-2023-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الستار مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%aa%d8%a7%d8%b1/"
     },
     "التحول": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%aa%d8%ad%d9%88%d9%84/",
@@ -3519,7 +3607,9 @@
                 "direct_video": "https://shooof.site/albaplayer/metamorfoz.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Metamorfoz-2023-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث التحول مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%aa%d8%ad%d9%88%d9%84/"
     },
     "الراية": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d8%a9/",
@@ -3639,7 +3729,9 @@
                 "direct_video": "https://shooof.site/albaplayer/the.patriots.S01E19",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/The-Patriots-2023-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الراية مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d8%a9/"
     },
     "الذئب الوحيد": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b0%d8%a6%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af/",
@@ -3765,7 +3857,9 @@
                 "direct_video": "https://shooof.site/albaplayer/yalniz.kurt.S01E20",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yalniz-Kurt-2022-Cover-671x377.webp"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الذئب الوحيد مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b0%d8%a6%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af/"
     },
     "المدينة البعيدة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%a8%d8%b9%d9%8a%d8%af%d8%a9/",
@@ -4185,7 +4279,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/Uzak-Sehir-3-COVER-671x377.webp",
                 "title": "الحلقة 69"
             }
-        ]
+        ],
+        "description": "قصة وأحداث المدينة البعيدة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%a8%d8%b9%d9%8a%d8%af%d8%a9/"
     },
     "شراب التوت": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%b1%d8%a7%d8%a8-%d8%a7%d9%84%d8%aa%d9%88%d8%aa/",
@@ -5043,16 +5139,18 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/02/Kizilcik-Serbeti-s4-2-671x377.webp",
                 "title": "الحلقة 142"
             }
-        ]
+        ],
+        "description": "قصة وأحداث شراب التوت مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%b1%d8%a7%d8%a8-%d8%a7%d9%84%d8%aa%d9%88%d8%aa/"
     },
     "حصري": {
-        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d8%a9/",
-        "poster": "https://shooflive.net/wp-content/uploads/2026/10/Tek-Turkiye_Cover-671x377.webp",
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%a7%d8%b5%d9%8a/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/10/Asi_COVER-671x378.webp",
         "episodes": [
             {
-                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-                "direct_video": "https://shooof.site/albaplayer/tek.trkiye.S01E01",
-                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/10/Tek-Turkiye_Cover-671x377.webp",
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%a7%d8%b5%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/asi.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/10/Asi_COVER-671x378.webp",
                 "title": "الحلقة 1"
             }
         ]
@@ -5073,7 +5171,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/09/Karma-Cover-671x377.webp",
                 "title": "الحلقة 2"
             }
-        ]
+        ],
+        "description": "قصة وأحداث كارما مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a7%d8%b1%d9%85%d8%a7/"
     },
     "جمهورية جيهانغير": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d8%ac%d9%8a%d9%87%d8%a7%d9%86%d8%ba%d9%8a%d8%b1/",
@@ -5139,7 +5239,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Samurai-Cop-2-Deadly-Vengeance-2015-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث جمهورية جيهانغير مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d8%ac%d9%8a%d9%87%d8%a7%d9%86%d8%ba%d9%8a%d8%b1/"
     },
     "المنعطف": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%86%d8%b9%d8%b7%d9%81/",
@@ -5193,7 +5295,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Sanzelize-Dugun-Salonu-2023-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث المنعطف مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%86%d8%b9%d8%b7%d9%81/"
     },
     "قصر مرجان": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%82%d8%b5%d8%b1-%d9%85%d8%b1%d8%ac%d8%a7%d9%86/",
@@ -5235,7 +5339,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Mercan-Kosk-Cover-671x377.webp",
                 "title": "الحلقة 6"
             }
-        ]
+        ],
+        "description": "قصة وأحداث قصر مرجان مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%82%d8%b5%d8%b1-%d9%85%d8%b1%d8%ac%d8%a7%d9%86/"
     },
     "أقنعة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d9%82%d9%86%d8%b9%d8%a9/",
@@ -5301,7 +5407,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Persona-2025-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث أقنعة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d9%82%d9%86%d8%b9%d8%a9/"
     },
     "يوميات الجامعة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%85%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9/",
@@ -5367,7 +5475,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Universdeli-2023-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث يوميات الجامعة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%85%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9/"
     },
     "انا اعرفك": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d9%86%d8%a7-%d8%a3%d8%b9%d8%b1%d9%81%d9%83/",
@@ -5421,7 +5531,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Not-a-Stranger-2026-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث انا اعرفك مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d9%86%d8%a7-%d8%a3%d8%b9%d8%b1%d9%81%d9%83/"
     },
     "التألق": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%aa%d8%a3%d9%84%d9%82/",
@@ -5475,7 +5587,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/FER-2025-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث التألق مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%aa%d8%a3%d9%84%d9%82/"
     },
     "حكايات المشرق الحديث": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%83%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab/",
@@ -5523,7 +5637,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Modern-Tales-Of-The-East-2023-Cover-671x377.webp",
                 "title": "الحلقة 7"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حكايات المشرق الحديث مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%83%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab/"
     },
     "ميلاد": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d9%8a%d9%84%d8%a7%d8%af/",
@@ -5589,7 +5705,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Milat-2015-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث ميلاد مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d9%8a%d9%84%d8%a7%d8%af/"
     },
     "دايتون": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%a7%d9%8a%d8%aa%d9%88%d9%86/",
@@ -5631,7 +5749,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Dayton-2023-Cover-671x377.webp",
                 "title": "الحلقة 6"
             }
-        ]
+        ],
+        "description": "قصة وأحداث دايتون مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%a7%d9%8a%d8%aa%d9%88%d9%86/"
     },
     "طباخ السلطان": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d8%a8%d8%a7%d8%ae-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86/",
@@ -5997,7 +6117,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yamak-Ahmet-2011-Cover-671x377.webp",
                 "title": "الحلقة 60"
             }
-        ]
+        ],
+        "description": "قصة وأحداث طباخ السلطان مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d8%a8%d8%a7%d8%ae-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86/"
     },
     "عاصفة شمسية": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%a7%d8%b5%d9%81%d8%a9-%d8%b4%d9%85%d8%b3%d9%8a%d8%a9/",
@@ -6051,7 +6173,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Derin-Mor-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث عاصفة شمسية مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%a7%d8%b5%d9%81%d8%a9-%d8%b4%d9%85%d8%b3%d9%8a%d8%a9/"
     },
     "البحر الأخضر عودة الأصدقاء": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d8%b5%d8%af%d9%82%d8%a7%d8%a1/",
@@ -6237,7 +6361,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Green-Sea-Millenium-2023-Cover-671x377.webp",
                 "title": "الحلقة 30"
             }
-        ]
+        ],
+        "description": "قصة وأحداث البحر الأخضر عودة الأصدقاء مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d8%b5%d8%af%d9%82%d8%a7%d8%a1/"
     },
     "قريباً": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8%d9%8a-%d9%87%d9%88-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af/",
@@ -6255,7 +6381,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Sevdam-Karadeniz-COVER-1-671x377.webp",
                 "title": "الحلقة 2"
             }
-        ]
+        ],
+        "description": "قصة وأحداث قريباً مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8%d9%8a-%d9%87%d9%88-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af/"
     },
     "الإمام الغزالي": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%ba%d8%b2%d8%a7%d9%84%d9%8a/",
@@ -6273,7 +6401,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/Imam-al‑Ghazali-the-Proof-of-Islam-2026-Cover-671x377.webp",
                 "title": "الحلقة 2"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الإمام الغزالي مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%ba%d8%b2%d8%a7%d9%84%d9%8a/"
     },
     "أرجين": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%b1%d8%ac%d9%8a%d9%86/",
@@ -6315,7 +6445,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Arjen-Azap-Yolu-2024-Cover-671x377.webp",
                 "title": "الحلقة 6"
             }
-        ]
+        ],
+        "description": "قصة وأحداث أرجين مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%b1%d8%ac%d9%8a%d9%86/"
     },
     "وجع القلب": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8/",
@@ -6489,7 +6621,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Secrets-of-an-Angel-2022-Cover-671x377.webp",
                 "title": "الحلقة 28"
             }
-        ]
+        ],
+        "description": "قصة وأحداث وجع القلب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%ac%d8%b9-%d8%a7%d9%84%d9%82%d9%84%d8%a8/"
     },
     "المدرب": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8/",
@@ -6555,7 +6689,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Coach-2025-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث المدرب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8/"
     },
     "معركة وطن": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86/",
@@ -6669,7 +6805,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Mahsusa-2023-Cover-671x377.webp",
                 "title": "الحلقة 18"
             }
-        ]
+        ],
+        "description": "قصة وأحداث معركة وطن مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d9%88%d8%b7%d9%86/"
     },
     "طيف إسطنبول": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84/",
@@ -6723,7 +6861,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ethos-2020-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث طيف إسطنبول مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b7%d9%8a%d9%81-%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84/"
     },
     "المتدرب": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8/",
@@ -6789,7 +6929,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Cirak-2024-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث المتدرب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%af%d8%b1%d8%a8/"
     },
     "البحر الأخضر": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1/",
@@ -6993,7 +7135,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yesil-Deniz-2014-Cover-671x377.webp",
                 "title": "الحلقة 33"
             }
-        ]
+        ],
+        "description": "قصة وأحداث البحر الأخضر مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1/"
     },
     "صلاح الدين الأيوبي فاتح القدس": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3/",
@@ -7347,7 +7491,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Saladin-The-Conqueror-of-Jerusalem-2023-Cover-671x377.webp",
                 "title": "الحلقة 58"
             }
-        ]
+        ],
+        "description": "قصة وأحداث صلاح الدين الأيوبي فاتح القدس مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d8%a7%d8%aa%d8%ad-%d8%a7%d9%84%d9%82%d8%af%d8%b3/"
     },
     "شعلة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%b9%d9%84%d8%a9/",
@@ -7413,7 +7559,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/Sule-Senin-Hikayen-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث شعلة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%b9%d9%84%d8%a9/"
     },
     "الفتح العظيم": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85/",
@@ -7467,7 +7615,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kizilelma-Bir-Fetih-Oykusu-2023-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الفتح العظيم مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85/"
     },
     "الاغتيال فى فندق بلتيمور": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a7%d8%ba%d8%aa%d9%8a%d8%a7%d9%84-%d9%81%d9%89-%d9%81%d9%86%d8%af%d9%82-%d8%a8%d9%84%d8%aa%d9%8a%d9%85%d9%88%d8%b1/",
@@ -7509,7 +7659,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/1973-Biltmore-Oteli-Cinayeti-2023-Cover-671x377.webp",
                 "title": "الحلقة 6"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الاغتيال فى فندق بلتيمور مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a7%d8%ba%d8%aa%d9%8a%d8%a7%d9%84-%d9%81%d9%89-%d9%81%d9%86%d8%af%d9%82-%d8%a8%d9%84%d8%aa%d9%8a%d9%85%d9%88%d8%b1/"
     },
     "رحلة الحب عزيز محمود هدائي": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d8%a8-%d8%b9%d8%b2%d9%8a%d8%b2-%d9%85%d8%ad%d9%85%d9%88%d8%af-%d9%87%d8%af%d8%a7%d8%a6%d9%8a/",
@@ -7629,7 +7781,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Aziz-Mahmud-Hudayi-Askin-Yolculugu-2024-Cover-671x377.webp",
                 "title": "الحلقة 19"
             }
-        ]
+        ],
+        "description": "قصة وأحداث رحلة الحب عزيز محمود هدائي مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d8%a8-%d8%b9%d8%b2%d9%8a%d8%b2-%d9%85%d8%ad%d9%85%d9%88%d8%af-%d9%87%d8%af%d8%a7%d8%a6%d9%8a/"
     },
     "ابن سينا العبقري الصغير": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%a8%d9%86-%d8%b3%d9%8a%d9%86%d8%a7-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1/",
@@ -7815,7 +7969,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Ibn-i-Sina-The-Young-Genius-2023-Cover-671x377.webp",
                 "title": "الحلقة 30"
             }
-        ]
+        ],
+        "description": "قصة وأحداث ابن سينا العبقري الصغير مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%a8%d9%86-%d8%b3%d9%8a%d9%86%d8%a7-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1/"
     },
     "زمبيلي": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b2%d9%85%d8%a8%d9%8a%d9%84%d9%8a/",
@@ -7899,7 +8055,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Zembilli-2025-Cover-671x377.webp",
                 "title": "الحلقة 13"
             }
-        ]
+        ],
+        "description": "قصة وأحداث زمبيلي مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b2%d9%85%d8%a8%d9%8a%d9%84%d9%8a/"
     },
     "الجيلاني": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ac%d9%8a%d9%84%d8%a7%d9%86%d9%8a/",
@@ -8025,7 +8183,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Gilani-the-Ascetic-2023-Cover-671x377.webp",
                 "title": "الحلقة 20"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الجيلاني مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ac%d9%8a%d9%84%d8%a7%d9%86%d9%8a/"
     },
     "لجوء": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%84%d8%ac%d9%88%d8%a1/",
@@ -8079,7 +8239,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Asylum-2026-Cover-1-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث لجوء مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%84%d8%ac%d9%88%d8%a1/"
     },
     "مجنون ليلى": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%ac%d9%86%d9%88%d9%86-%d9%84%d9%8a%d9%84%d9%89/",
@@ -8325,7 +8487,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Leyla-and-Mecnun-2011-Cover-671x377.webp",
                 "title": "الحلقة 40"
             }
-        ]
+        ],
+        "description": "قصة وأحداث مجنون ليلى مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%ac%d9%86%d9%88%d9%86-%d9%84%d9%8a%d9%84%d9%89/"
     },
     "المحافظ": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%81%d8%b8/",
@@ -8523,7 +8687,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/The-Protector-2018-Cover-671x377.webp",
                 "title": "الحلقة 32"
             }
-        ]
+        ],
+        "description": "قصة وأحداث المحافظ مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%81%d8%b8/"
     },
     "قصر رمضان بك": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%82%d8%b5%d8%b1-%d8%b1%d9%85%d8%b6%d8%a7%d9%86-%d8%a8%d9%83/",
@@ -8649,7 +8815,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Eyvah-Ramazan-Bey-2023-Cover-671x377.webp",
                 "title": "الحلقة 20"
             }
-        ]
+        ],
+        "description": "قصة وأحداث قصر رمضان بك مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%82%d8%b5%d8%b1-%d8%b1%d9%85%d8%b6%d8%a7%d9%86-%d8%a8%d9%83/"
     },
     "صمود": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%85%d9%88%d8%af/",
@@ -8715,7 +8883,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Sumud-2026-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث صمود مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b5%d9%85%d9%88%d8%af/"
     },
     "اليوم الأخير": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1/",
@@ -8769,7 +8939,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/The-Last-Day-2023-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث اليوم الأخير مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1/"
     },
     "ما بين": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%a7-%d8%a8%d9%8a%d9%86/",
@@ -8823,7 +8995,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Koyu-Beyaz-2023-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث ما بين مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%a7-%d8%a8%d9%8a%d9%86/"
     },
     "غسيل أموال": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ba%d8%b3%d9%8a%d9%84-%d8%a3%d9%85%d9%88%d8%a7%d9%84/",
@@ -8889,7 +9063,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Temiz-Para-2026-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث غسيل أموال مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ba%d8%b3%d9%8a%d9%84-%d8%a3%d9%85%d9%88%d8%a7%d9%84/"
     },
     "عاكف": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%a7%d9%83%d9%81/",
@@ -8973,7 +9149,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Akif-2023-Cover-671x377.webp",
                 "title": "الحلقة 13"
             }
-        ]
+        ],
+        "description": "قصة وأحداث عاكف مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%a7%d9%83%d9%81/"
     },
     "غسال": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ba%d8%b3%d8%a7%d9%84/",
@@ -9159,7 +9337,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Late-Offices-2024-Cover-671x377.webp",
                 "title": "الحلقة 30"
             }
-        ]
+        ],
+        "description": "قصة وأحداث غسال مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ba%d8%b3%d8%a7%d9%84/"
     },
     "أيام النار": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d9%8a%d8%a7%d9%85-%d8%a7%d9%84%d9%86%d8%a7%d8%b1/",
@@ -9213,7 +9393,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yangin-Gunleri-Independenta-2023-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث أيام النار مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d9%8a%d8%a7%d9%85-%d8%a7%d9%84%d9%86%d8%a7%d8%b1/"
     },
     "حال ليلى": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a7%d9%84-%d9%84%d9%8a%d9%84%d9%89/",
@@ -9279,7 +9461,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/Leyla-Hali-2026-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حال ليلى مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a7%d9%84-%d9%84%d9%8a%d9%84%d9%89/"
     },
     "من أجل ابنتي": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%a7%d8%a8%d9%86%d8%aa%d9%8a/",
@@ -9345,7 +9529,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kiz-Babasi-2025-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث من أجل ابنتي مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%a7%d8%a8%d9%86%d8%aa%d9%8a/"
     },
     "عائلتي الجميلة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%a7%d8%a6%d9%84%d8%aa%d9%8a-%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d8%a9/",
@@ -9483,7 +9669,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Benim-Guzel-Ailem-2023-Cover-671x377.webp",
                 "title": "الحلقة 22"
             }
-        ]
+        ],
+        "description": "قصة وأحداث عائلتي الجميلة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%a7%d8%a6%d9%84%d8%aa%d9%8a-%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d8%a9/"
     },
     "الشتاء الاسود": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b4%d8%aa%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af/",
@@ -9537,7 +9725,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/Kara-Kis-2026-Cover-671x377.webp",
                 "title": "الحلقة 8"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الشتاء الاسود مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b4%d8%aa%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af/"
     },
     "حكاية زواج": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%b2%d9%88%d8%a7%d8%ac/",
@@ -9555,7 +9745,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Come-What-May-2023-Cover-671x377.webp",
                 "title": "الحلقة 2"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حكاية زواج مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%b2%d9%88%d8%a7%d8%ac/"
     },
     "اثنان بالمئة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%ab%d9%86%d8%a7%d9%86-%d8%a8%d8%a7%d9%84%d9%85%d8%a6%d8%a9/",
@@ -9621,7 +9813,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Two-Percent-2025-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث اثنان بالمئة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%ab%d9%86%d8%a7%d9%86-%d8%a8%d8%a7%d9%84%d9%85%d8%a6%d8%a9/"
     },
     "مسار قلبي البحر الأسود": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b3%d8%a7%d8%b1-%d9%82%d9%84%d8%a8%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af/",
@@ -9687,7 +9881,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/09/Kalbimin-Rotasi-Karadeniz-Poster-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث مسار قلبي البحر الأسود مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b3%d8%a7%d8%b1-%d9%82%d9%84%d8%a8%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af/"
     },
     "قانون الطبيعة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d8%a9/",
@@ -9771,7 +9967,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Doganin-Kanunu-2026-Cover-671x377.webp",
                 "title": "الحلقة 13"
             }
-        ]
+        ],
+        "description": "قصة وأحداث قانون الطبيعة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d8%a9/"
     },
     "القبعة السوداء": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%82%d8%a8%d8%b9%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d8%a1/",
@@ -9837,7 +10035,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/The-Black-Berets-2025-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث القبعة السوداء مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%82%d8%a8%d8%b9%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d8%a1/"
     },
     "عساف": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%b3%d8%a7%d9%81/",
@@ -9879,7 +10079,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Asaf-2024-Cover-671x377.webp",
                 "title": "الحلقة 6"
             }
-        ]
+        ],
+        "description": "قصة وأحداث عساف مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%b3%d8%a7%d9%81/"
     },
     "عشرة أعوام في جزيرة الشيطان": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%b4%d8%b1%d8%a9-%d8%a3%d8%b9%d9%88%d8%a7%d9%85-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86/",
@@ -9903,7 +10105,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/10-Years-On-The-Devils-Island-2025-Cover-671x377.webp",
                 "title": "الحلقة 3"
             }
-        ]
+        ],
+        "description": "قصة وأحداث عشرة أعوام في جزيرة الشيطان مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%b4%d8%b1%d8%a9-%d8%a3%d8%b9%d9%88%d8%a7%d9%85-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86/"
     },
     "السلطان عبد الحميد": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af/",
@@ -10815,7 +11019,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Payitaht-Abdulhamid-2017-Cover-671x377.webp",
                 "title": "الحلقة 151"
             }
-        ]
+        ],
+        "description": "قصة وأحداث السلطان عبد الحميد مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af/"
     },
     "فرحة حياتي": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%81%d8%b1%d8%ad%d8%a9-%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a/",
@@ -10833,7 +11039,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/The-Joy-of-My-Life-2023-Cover-1-671x377.webp",
                 "title": "الحلقة 2"
             }
-        ]
+        ],
+        "description": "قصة وأحداث فرحة حياتي مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%81%d8%b1%d8%ad%d8%a9-%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a/"
     },
     "أساطير التاريخ": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%b3%d8%a7%d8%b7%d9%8a%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae/",
@@ -10935,7 +11143,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Legends-of-History-2021-Cover-671x377.webp",
                 "title": "الحلقة 16"
             }
-        ]
+        ],
+        "description": "قصة وأحداث أساطير التاريخ مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%b3%d8%a7%d8%b7%d9%8a%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae/"
     },
     "الصدى تأثير الفراشة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b5%d8%af%d9%89-%d8%aa%d8%a3%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%b4%d8%a9/",
@@ -11019,7 +11229,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/Yanki-Ikinci-Perde-Cover-671x377.webp",
                 "title": "الحلقة 13"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الصدى تأثير الفراشة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b5%d8%af%d9%89-%d8%aa%d8%a3%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%b4%d8%a9/"
     },
     "حر": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%b1/",
@@ -11085,7 +11297,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Free-Sky-2023-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث حر مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%b1/"
     },
     "الملحمة الأخيرة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9/",
@@ -11121,7 +11335,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Son-Destan-2017-Cover-671x377.webp",
                 "title": "الحلقة 5"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الملحمة الأخيرة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9/"
     },
     "المقبرة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d8%b1%d8%a9/",
@@ -11247,7 +11463,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Mezarlik-2022-Cover-671x377.webp",
                 "title": "الحلقة 20"
             }
-        ]
+        ],
+        "description": "قصة وأحداث المقبرة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d8%b1%d8%a9/"
     },
     "دورية الثانوية": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d9%88%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d8%a9/",
@@ -11319,7 +11537,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Lise-Devriyesi-2017-Cover-671x377.webp",
                 "title": "الحلقة 11"
             }
-        ]
+        ],
+        "description": "قصة وأحداث دورية الثانوية مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d9%88%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d8%a9/"
     },
     "بربروس": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d8%b1%d8%a8%d8%b1%d9%88%d8%b3/",
@@ -11517,7 +11737,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Barbaroslar-2021-Cover-671x377.webp",
                 "title": "الحلقة 32"
             }
-        ]
+        ],
+        "description": "قصة وأحداث بربروس مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d8%b1%d8%a8%d8%b1%d9%88%d8%b3/"
     },
     "الغمام الأسود": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ba%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af/",
@@ -11583,7 +11805,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kuzgun-Dipsiz-Karanlik-2023-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الغمام الأسود مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ba%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af/"
     },
     "الملحمة": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%84%d8%ad%d9%85%d8%a9/",
@@ -11757,7 +11981,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/The-Warrior-Princess-2021-Cover-671x377.webp",
                 "title": "الحلقة 28"
             }
-        ]
+        ],
+        "description": "قصة وأحداث الملحمة مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%84%d8%ad%d9%85%d8%a9/"
     },
     "تصفية حساب": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%aa%d8%b5%d9%81%d9%8a%d8%a9-%d8%ad%d8%b3%d8%a7%d8%a8/",
@@ -11823,7 +12049,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Adalett-2023-Cover-671x377.webp",
                 "title": "الحلقة 10"
             }
-        ]
+        ],
+        "description": "قصة وأحداث تصفية حساب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%aa%d8%b5%d9%81%d9%8a%d8%a9-%d8%ad%d8%b3%d8%a7%d8%a8/"
     },
     "أساطير الحرب": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%b3%d8%a7%d8%b7%d9%8a%d8%b1-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8/",
@@ -11985,7 +12213,9 @@
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Savasin-Efsaneleri-Cover-671x377.webp",
                 "title": "الحلقة 26"
             }
-        ]
+        ],
+        "description": "قصة وأحداث أساطير الحرب مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%b3%d8%a7%d8%b7%d9%8a%d8%b1-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8/"
     },
     "أزهار الثلج": {
         "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%b2%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%ab%d9%84%d8%ac/",
@@ -12050,6 +12280,728 @@
                 "direct_video": "https://shooof.site/albaplayer/snowdrops.S01E10",
                 "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Snowdrops-2025-Cover-671x377.webp",
                 "title": "الحلقة 10"
+            }
+        ],
+        "description": "قصة وأحداث أزهار الثلج مترجمة بجودة عالية وحصرياً على تطبيق Saad TV.",
+        "direct_video": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%b2%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%ab%d9%84%d8%ac/"
+    },
+    "الحصة": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ad%d8%b5%d8%a9/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/05/The-Share-2026-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ad%d8%b5%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/the.share.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/The-Share-2026-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ad%d8%b5%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/the.share.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/The-Share-2026-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ad%d8%b5%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/the.share.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/The-Share-2026-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ad%d8%b5%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/the.share.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/The-Share-2026-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ad%d8%b5%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/the.share.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/The-Share-2026-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ad%d8%b5%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/the.share.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/The-Share-2026-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ad%d8%b5%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/the.share.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/The-Share-2026-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ad%d8%b5%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/the.share.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/05/The-Share-2026-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            }
+        ]
+    },
+    "كبرى": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S02E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S02E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S02E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 11"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S02E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 12"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S02E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 13"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S02E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 14"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S02E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 15"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%83%d8%a8%d8%b1%d9%89-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/kubra.S02E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Kubra-2024-Cover-671x377.webp",
+                "title": "الحلقة 16"
+            }
+        ]
+    },
+    "يونس إمره": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E11",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 11"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E12",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 12"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E13",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 13"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E14",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 14"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E15",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 15"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E16",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 16"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E17",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 17"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E18",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 18"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E19",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 19"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E20",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 20"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E21",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 21"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S01E22",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 22"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E23",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 23"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E24",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 24"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-25-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E25",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 25"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-26-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E26",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 26"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-27-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E27",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 27"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-28-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E28",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 28"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-29-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E29",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 29"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-30-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E30",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 30"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-31-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E31",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 31"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-32-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E32",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 32"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-33-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E33",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 33"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-34-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E34",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 34"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-35-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E35",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 35"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-36-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E36",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 36"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-37-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E37",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 37"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-38-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E38",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 38"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-39-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E39",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 39"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-40-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E40",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 40"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-41-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E41",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 41"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-42-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E42",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 42"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-43-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E43",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 43"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-44-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E44",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 44"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%b3-%d8%a5%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-45-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/yunus.emre.S02E45",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Yunus-Emre-2015-Cover-671x377.webp",
+                "title": "الحلقة 45"
+            }
+        ]
+    },
+    "نصف الام": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%86%d8%b5%d9%81-%d8%a7%d9%84%d8%a7%d9%85/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/08/Anne-Yarisi-COVER-1-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%86%d8%b5%d9%81-%d8%a7%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/anne-yarisi-s01e01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Anne-Yarisi-COVER-1-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%86%d8%b5%d9%81-%d8%a7%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+                "direct_video": "https://shooof.site/albaplayer/anne-yarisi-s01e02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Anne-Yarisi-COVER-1-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%86%d8%b5%d9%81-%d8%a7%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/anne-yarisi-s01e03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Anne-Yarisi-COVER-1-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%86%d8%b5%d9%81-%d8%a7%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/anne-yarisi-s01e04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/08/Anne-Yarisi-COVER-1-671x377.webp",
+                "title": "الحلقة 4"
+            }
+        ]
+    },
+    "اسمي ايلاماز": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d9%85%d9%8a-%d8%a7%d9%8a%d9%84%d8%a7%d9%85%d8%a7%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1/",
+                "direct_video": "https://shooof.site/albaplayer/benim.adim.aylamaz.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/06/Benim-Adim-Aylamaz-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            }
+        ]
+    },
+    "دعها لي": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%af%d8%b9%d9%87%d8%a7-%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/say.no.more.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Say-No-More-2023-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            }
+        ]
+    },
+    "المغوار": {
+        "main_link": "https://shooflive.net/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1/",
+        "poster": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+        "episodes": [
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E01",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 1"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E02",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 2"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E03",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 3"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E04",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 4"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E05",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 5"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E06",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 6"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E07",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 7"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E08",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 8"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E09",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 9"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E10",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 10"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E11",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 11"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E12",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 12"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E13",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 13"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E14",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 14"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E15",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 15"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E16",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 16"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E17",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 17"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E18",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 18"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E19",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 19"
+            },
+            {
+                "link": "https://shooflive.net/episode/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+                "direct_video": "https://shooof.site/albaplayer/akinci.S01E20",
+                "thumbnail": "https://shooflive.net/wp-content/uploads/2026/07/Akinci-2021-Cover-671x377.webp",
+                "title": "الحلقة 20"
             }
         ]
     }
