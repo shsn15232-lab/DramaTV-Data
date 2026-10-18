@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v1.0.3/DramaTV.apk",
-  "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.1",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v1.0.4/DramaTV.apk",
+  "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
   "changelog": "تحديث جديد لتطبيق DramaTV مع تحسينات وإصلاحات.",
   "forceUpdate": false
 }
