@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v1.0.5/DramaTV-debug.apk",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v1.0.6/DramaTV.apk",
   "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
-  "changelog": "تحديث جديد لتطبيق DramaTV مع تحسينات وإصلاحات.",
+  "changelog": "تم تحسين منع الاعلانات  نعتذر اذا توجد اخطاء ثانية سوف نحلها جميعها استمتعو /من DamaTV.",
   "forceUpdate": false
 }
