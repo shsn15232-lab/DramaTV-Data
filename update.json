@@ -1,8 +1,8 @@
 {
   "versionCode": 8,
   "versionName": "1.7",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v1.0.6/DramaTV.apk",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v1.0.7/DramaTV.apk",
   "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
-  "changelog": "تم تحسين منع الاعلانات  نعتذر اذا توجد اخطاء ثانية سوف نحلها جميعها استمتعو /من DamaTV.",
+  "changelog": "تم إصدار تحديث جديد من DramaTV يتضمن تحسينات على مشغّل الفيديو وحظر الإعلانات. حدّث التطبيق الآن واستمتع بتجربة مشاهدة أفضل! ❤️.",
   "forceUpdate": false
 }
