@@ -1,10 +1,31 @@
+
 {
   "movies": [
     {
-      "title":  "ليل البنفسج",
-      "direct_video": "intent://servers?data=eyJzZXJ2ZXJzIjpbeyJuYW1lIjoiNzIwcCBIRCIsInVybCI6Imh0dHBzOi8vdm9kMy5jZi5kbWNkbi5uZXQvc2VjMihxM012NjZKRUU1Z1BKRXkwZng5SnhqRDhnSDlFQ2VrREZFakh0eDYtNkttSE5lbWE3eFVXd2F4V3dLRGVkdkZwbVg0UTZ5VFZSLUZndDV0TzBKMUpLRS1WM2phS3NCUFo1OGU4alJLSkJRWnRUSGs2dW9KVjFwNzYzYkd3Vm41bzYteG9rdHY3Vm9USkYzNTByYjFyVkp0WVpJNnhmMl9QT0R4QXFGVnZqWFdFX3JZNjRmdktWdHFFZ0pMZ1RBYTVPemRJWkd1QTNjM0wwSllqbzZfODZBKS92aWRlby9mbXA0LzYxMDgxMDg2MC9oMjY0X2FhY19oZC8yL21hbmlmZXN0Lm0zdTgjY2VsbD1jZjMiLCJwbGF5ZXJNb2RlIjoiRVhPIiwicXVhbGl0eSI6IjcyMHAgSEQifV0sInZwbiI6dHJ1ZX0#Intent;scheme=BSRPlayer;package=com.bsr.player.pro;end",
+      "title": "ليل البنفسج",
       "poster": "https://media0106.elcinema.com/uploads/_320x_94963bdc16e00311f83140481636e149b6a7cc6e57b136537cffeed88727a8bb.jpg",
-      "category": "أجنبي"
+      "category": "عربي",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            { "episode": 1, "title": "ليل البنفسج - الحلقة 1", "link": "intent://servers?data=eyJzZXJ2ZXJzIjpbeyJuYW1lIjoiNzIwcCBIRCIsInVybCI6Imh0dHBzOi8vdm9kMy5jZi5kbWNkbi5uZXQvc2VjMihxM012NjZKRUU1Z1BKRXkwZng5SnhqRDhnSDlFQ2VrREZFakh0eDYtNkttSE5lbWE3eFVXd2F4V3dLRGVkdkZwbVg0UTZ5VFZSLUZndDV0TzBKMUpLRS1WM2phS3NCUFo1OGU4alJLSkJRWnRUSGs2dW9KVjFwNzYzYkd3Vm41bzYteG9rdHY3Vm9USkYzNTByYjFyVkp0WVpJNnhmMl9QT0R4QXFGVnZqWFdFX3JZNjRmdktWdHFFZ0pMZ1RBYTVPemRJWkd1QTNjM0wwSllqbzZfODZBKS92aWRlby9mbXA0LzYxMDgxMDg2MC9oMjY0X2FhY19oZC8yL21hbmlmZXN0Lm0zdTgjY2VsbD1jZjMiLCJwbGF5ZXJNb2RlIjoiRVhPIiwicXVhbGl0eSI6IjcyMHAgSEQifV0sInZwbiI6dHJ1ZX0#Intent;scheme=BSRPlayer;package=com.bsr.player.pro;end" },
+            { "episode": 2, "title": "ليل البنفسج - الحلقة 2", "link": "" },
+            { "episode": 3, "title": "ليل البنفسج - الحلقة 3", "link": "" },
+            { "episode": 4, "title": "ليل البنفسج - الحلقة 4", "link": "" },
+            { "episode": 5, "title": "ليل البنفسج - الحلقة 5", "link": "" },
+            { "episode": 6, "title": "ليل البنفسج - الحلقة 6", "link": "" },
+            { "episode": 7, "title": "ليل البنفسج - الحلقة 7", "link": "" },
+            { "episode": 8, "title": "ليل البنفسج - الحلقة 8", "link": "" },
+            { "episode": 9, "title": "ليل البنفسج - الحلقة 9", "link": "" },
+            { "episode": 10, "title": "ليل البنفسج - الحلقة 10", "link": "" }
+          ]
+        },
+        {
+          "season": 2,
+          "episodes": []
+        }
+      ]
     }
   ]
 }
