@@ -1,0 +1,10 @@
+{
+  "movies": [
+    {
+      "title": "اسم الفيلم",
+      "direct_video": "intent://servers?...#Intent;scheme=BSRPlayer;package=com.bsr.player.pro;end",
+      "poster": "https://example.com/poster.jpg",
+      "category": "أجنبي"
+    }
+  ]
+}
