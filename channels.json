@@ -9,7 +9,28 @@
       "subtitle": "",
       "videoUrl": "https:\/\/cp11.adabmedia.com\/hls2\/tv3test.m3u8",
       "referer": "",
-      "servers": [],
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "S1",
+              "videoUrl": "https:\/\/bein1.houdatv.workers.dev\/live.m3u8?key=68452"
+            }
+          ]
+        },
+        {
+          "id": "server2",
+          "name": "السيرفر الثاني",
+          "qualities": [
+            {
+              "title": "S2",
+              "videoUrl": "http:\/\/a.norzro.cfd\/live\/8667593288\/2505245402\/212313.m3u8"
+            }
+          ]
+        }
+      ],
       "enabled": true
     }
   ],
