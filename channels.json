@@ -1,3 +1,22 @@
 {
-  "channels": []
+  "channels": [
+    {
+      "id": "bein1",
+      "title": "bien sport1",
+      "category": "section_1792949120303",
+      "group": "",
+      "logoUrl": "",
+      "subtitle": "",
+      "videoUrl": "https:\/\/cp11.adabmedia.com\/hls2\/tv3test.m3u8",
+      "referer": "",
+      "servers": [],
+      "enabled": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "section_1792949120303",
+      "name": "Bein sport"
+    }
+  ]
 }
