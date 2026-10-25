@@ -6,9 +6,9 @@
       "category": "section_1792949120303",
       "group": "",
       "logoUrl": "",
-      "poster": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/bein-sports.png",
       "subtitle": "",
-      "videoUrl": "https://cp11.adabmedia.com/hls2/tv3test.m3u8",
+      "videoUrl": "https:\/\/cp11.adabmedia.com\/hls2\/tv3test.m3u8",
       "referer": "",
       "servers": [
         {
@@ -17,11 +17,11 @@
           "qualities": [
             {
               "title": "S1",
-              "videoUrl": "https://bein1.houdatv.workers.dev/live.m3u8?key=68452"
+              "videoUrl": "https:\/\/bein1.houdatv.workers.dev\/live.m3u8?key=68452"
             },
             {
               "title": "S2",
-              "videoUrl": "http://a.norzro.cfd/live/8667593288/2505245402/212313.m3u8"
+              "videoUrl": "http:\/\/a.norzro.cfd\/live\/8667593288\/2505245402\/212313.m3u8"
             }
           ]
         }
@@ -36,7 +36,7 @@
       "logoUrl": "",
       "poster": "",
       "subtitle": "",
-      "videoUrl": "https://bein2.houdatv.workers.dev/live.m3u8?key=68452",
+      "videoUrl": "https:\/\/bein2.houdatv.workers.dev\/live.m3u8?key=68452",
       "referer": "",
       "servers": [
         {
@@ -45,27 +45,27 @@
           "qualities": [
             {
               "title": "S1",
-              "videoUrl": "https://bein2.houdatv.workers.dev/live.m3u8?key=68452"
+              "videoUrl": "https:\/\/bein2.houdatv.workers.dev\/live.m3u8?key=68452"
             },
             {
               "title": "S2",
-              "videoUrl": "https://primetv.cc.cd/beinfhd2/index.m3u8"
+              "videoUrl": "https:\/\/primetv.cc.cd\/beinfhd2\/index.m3u8"
             },
             {
               "title": "240p",
-              "videoUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-240p.m3u8"
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein2-240p.m3u8"
             },
             {
               "title": "480",
-              "videoUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-480p.m3u8"
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein2-480p.m3u8"
             },
             {
               "title": "720p",
-              "videoUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-720p.m3u8"
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein2-720p.m3u8"
             },
             {
               "title": "1080p",
-              "videoUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-1080p.m3u8"
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein2-1080p.m3u8"
             }
           ]
         }
@@ -80,7 +80,7 @@
       "logoUrl": "",
       "poster": "",
       "subtitle": "",
-      "videoUrl": "https://bein3.houdatv.workers.dev/live.m3u8?key=68452",
+      "videoUrl": "https:\/\/bein3.houdatv.workers.dev\/live.m3u8?key=68452",
       "referer": "",
       "servers": [
         {
@@ -89,23 +89,23 @@
           "qualities": [
             {
               "title": "S1",
-              "videoUrl": "https://bein3.houdatv.workers.dev/live.m3u8?key=68452"
+              "videoUrl": "https:\/\/bein3.houdatv.workers.dev\/live.m3u8?key=68452"
             },
             {
               "title": "240p",
-              "videoUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-240p.m3u8"
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-240p.m3u8"
             },
             {
               "title": "480p",
-              "videoUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-480p.m3u8"
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-480p.m3u8"
             },
             {
               "title": "720p",
-              "videoUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-720p.m3u8"
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-720p.m3u8"
             },
             {
               "title": "1080p",
-              "videoUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-1080p.m3u8"
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-1080p.m3u8"
             }
           ]
         }
@@ -120,7 +120,7 @@
       "logoUrl": "",
       "poster": "",
       "subtitle": "",
-      "videoUrl": "https://primetv.cc.cd/beinfhd4/index.m3u8",
+      "videoUrl": "https:\/\/primetv.cc.cd\/beinfhd4\/index.m3u8",
       "referer": "",
       "servers": [
         {
@@ -129,7 +129,7 @@
           "qualities": [
             {
               "title": "S1",
-              "videoUrl": "https://primetv.cc.cd/beinfhd4/index.m3u8"
+              "videoUrl": "https:\/\/primetv.cc.cd\/beinfhd4\/index.m3u8"
             }
           ]
         },
@@ -139,7 +139,7 @@
           "qualities": [
             {
               "title": "S2",
-              "videoUrl": "https://bein4.houdatv.workers.dev/live.m3u8?key=68452"
+              "videoUrl": "https:\/\/bein4.houdatv.workers.dev\/live.m3u8?key=68452"
             }
           ]
         }
@@ -154,7 +154,7 @@
       "logoUrl": "",
       "poster": "",
       "subtitle": "",
-      "videoUrl": "https://bein5.houdatv.workers.dev/live.m3u8?key=68452",
+      "videoUrl": "https:\/\/bein5.houdatv.workers.dev\/live.m3u8?key=68452",
       "referer": "",
       "servers": [
         {
@@ -163,7 +163,7 @@
           "qualities": [
             {
               "title": "تلقائي",
-              "videoUrl": "https://bein5.houdatv.workers.dev/live.m3u8?key=68452"
+              "videoUrl": "https:\/\/bein5.houdatv.workers.dev\/live.m3u8?key=68452"
             }
           ]
         }
@@ -178,7 +178,7 @@
       "logoUrl": "",
       "poster": "",
       "subtitle": "",
-      "videoUrl": "https://bein6.houdatv.workers.dev/live.m3u8?key=68452",
+      "videoUrl": "https:\/\/bein6.houdatv.workers.dev\/live.m3u8?key=68452",
       "referer": "",
       "servers": [
         {
@@ -187,7 +187,7 @@
           "qualities": [
             {
               "title": "تلقائي",
-              "videoUrl": "https://bein6.houdatv.workers.dev/live.m3u8?key=68452"
+              "videoUrl": "https:\/\/bein6.houdatv.workers.dev\/live.m3u8?key=68452"
             }
           ]
         }
@@ -202,7 +202,7 @@
       "logoUrl": "",
       "poster": "",
       "subtitle": "",
-      "videoUrl": "https://bein7.houdatv.workers.dev/live.m3u8?key=68452",
+      "videoUrl": "https:\/\/bein7.houdatv.workers.dev\/live.m3u8?key=68452",
       "referer": "",
       "servers": [
         {
@@ -211,7 +211,7 @@
           "qualities": [
             {
               "title": "تلقائي",
-              "videoUrl": "https://bein7.houdatv.workers.dev/live.m3u8?key=68452"
+              "videoUrl": "https:\/\/bein7.houdatv.workers.dev\/live.m3u8?key=68452"
             }
           ]
         }
