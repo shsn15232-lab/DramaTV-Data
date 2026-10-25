@@ -1,0 +1,91 @@
+
+name: Validate DramaTV channels
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "channels.json"
+  pull_request:
+    paths:
+      - "channels.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate channels JSON
+        run: |
+          python3 - <<'PY'
+          import json
+          import sys
+
+          try:
+              with open("channels.json", encoding="utf-8") as f:
+                  data = json.load(f)
+          except Exception as e:
+              sys.exit(f"JSON error: {e}")
+
+          if not isinstance(data, dict):
+              sys.exit("Root must be an object")
+
+          channels = data.get("channels")
+
+          if not isinstance(channels, list):
+              sys.exit("channels must be an array")
+
+          ids = set()
+
+          for i, channel in enumerate(channels):
+              if not isinstance(channel, dict):
+                  sys.exit(f"Invalid channel at index {i}")
+
+              channel_id = channel.get("id")
+              title = channel.get("title")
+
+              if not isinstance(channel_id, str) or not channel_id.strip():
+                  sys.exit(f"Missing ID at index {i}")
+
+              if channel_id in ids:
+                  sys.exit(f"Duplicate ID: {channel_id}")
+
+              ids.add(channel_id)
+
+              if not isinstance(title, str) or not title.strip():
+                  sys.exit(f"Missing title at index {i}")
+
+              servers = channel.get("servers", [])
+
+              if not isinstance(servers, list):
+                  sys.exit(f"Invalid servers at index {i}")
+
+              for server in servers:
+                  if not isinstance(server, dict):
+                      sys.exit("Invalid server object")
+
+                  qualities = server.get("qualities", [])
+
+                  if not isinstance(qualities, list):
+                      sys.exit("Invalid qualities array")
+
+                  for quality in qualities:
+                      if not isinstance(quality, dict):
+                          sys.exit("Invalid quality object")
+
+                      if not isinstance(quality.get("title"), str):
+                          sys.exit("Invalid quality title")
+
+                      if not isinstance(quality.get("videoUrl"), str):
+                          sys.exit("Invalid videoUrl field")
+
+          print(f"Validation successful: {len(channels)} channels")
+          PY
