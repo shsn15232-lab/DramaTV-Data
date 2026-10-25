@@ -69,6 +69,147 @@
         }
       ],
       "enabled": true
+    },
+    {
+      "id": "bein3",
+      "title": "bein sport 3",
+      "category": "section_1792949120303",
+      "group": "",
+      "logoUrl": "",
+      "subtitle": "",
+      "videoUrl": "https:\/\/bein3.houdatv.workers.dev\/live.m3u8?key=68452",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "S1",
+              "videoUrl": "https:\/\/bein3.houdatv.workers.dev\/live.m3u8?key=68452"
+            },
+            {
+              "title": "240p",
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-240p.m3u8"
+            },
+            {
+              "title": "480p",
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-480p.m3u8"
+            },
+            {
+              "title": "720p",
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-720p.m3u8"
+            },
+            {
+              "title": "1080p",
+              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-1080p.m3u8"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "bein4",
+      "title": "bein sport 4",
+      "category": "section_1792949120303",
+      "group": "",
+      "logoUrl": "",
+      "subtitle": "",
+      "videoUrl": "https:\/\/primetv.cc.cd\/beinfhd4\/index.m3u8",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "S1",
+              "videoUrl": "https:\/\/primetv.cc.cd\/beinfhd4\/index.m3u8"
+            }
+          ]
+        },
+        {
+          "id": "server2",
+          "name": "السيرفر الثاني",
+          "qualities": [
+            {
+              "title": "S2",
+              "videoUrl": "https:\/\/bein4.houdatv.workers.dev\/live.m3u8?key=68452"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "bein5",
+      "title": "bein sport 5",
+      "category": "section_1792949120303",
+      "group": "",
+      "logoUrl": "",
+      "subtitle": "",
+      "videoUrl": "https:\/\/bein5.houdatv.workers.dev\/live.m3u8?key=68452",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "تلقائي",
+              "videoUrl": "https:\/\/bein5.houdatv.workers.dev\/live.m3u8?key=68452"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "bein6",
+      "title": "bein sport 6",
+      "category": "section_1792949120303",
+      "group": "",
+      "logoUrl": "",
+      "subtitle": "",
+      "videoUrl": "https:\/\/bein6.houdatv.workers.dev\/live.m3u8?key=68452",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "تلقائي",
+              "videoUrl": "https:\/\/bein6.houdatv.workers.dev\/live.m3u8?key=68452"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "bein 7",
+      "title": "bein sport 7",
+      "category": "section_1792949120303",
+      "group": "",
+      "logoUrl": "",
+      "subtitle": "",
+      "videoUrl": "https:\/\/bein7.houdatv.workers.dev\/live.m3u8?key=68452",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "تلقائي",
+              "videoUrl": "https:\/\/bein7.houdatv.workers.dev\/live.m3u8?key=68452"
+            }
+          ]
+        }
+      ],
+      "enabled": true
     }
   ],
   "categories": [
