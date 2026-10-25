@@ -26,6 +26,10 @@
             {
               "title": "S3",
               "videoUrl": "https:\/\/cp11.adabmedia.com\/hls2\/bein1.m3u8"
+            },
+            {
+              "title": "S4",
+              "videoUrl": "https:\/\/blcco.linkip.org\/live\/1114_.m3u8"
             }
           ]
         }
