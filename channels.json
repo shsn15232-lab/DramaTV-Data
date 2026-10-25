@@ -139,10 +139,10 @@
       "logoUrl": ""
     },
     {
-      "id": "bein_xtra",
+      "id": "bein_sport1",
       "title": "beIN Sport 1",
       "subtitle": "رياضة • مباشر",
-      "videoUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "videoUrl": "https://bein1.houdatv.workers.dev/live.m3u8?key=68452",
       "category": "الرياضة",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
     },
