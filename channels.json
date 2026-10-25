@@ -1,16 +1,3 @@
 {
-  "channels": [
-    {
-      "id": "jj",
-      "title": "jj",
-      "category": "عام",
-      "group": "",
-      "logoUrl": "",
-      "subtitle": "",
-      "videoUrl": "https:\/\/cp11.adabmedia.com\/hls2\/tv3test.m3u8",
-      "referer": "",
-      "servers": [],
-      "enabled": true
-    }
-  ]
+  "channels": []
 }
