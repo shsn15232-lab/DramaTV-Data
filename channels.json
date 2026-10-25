@@ -1,5 +1,4 @@
-{
-  "categories": [
+هنا  "categories": [
     {
       "id": "sports",
       "name": "الرياضة"
@@ -50,11 +49,11 @@
           "qualities": [
             {
               "title": "تلقائي",
-              "videoUrl": "ضع_الرابط_هنا"
+              "videoUrl": "https://bein2.houdatv.workers.dev/live.m3u8?key=68452"
             },
             {
               "title": "240p",
-              "videoUrl": "ضع_الرابط_هنا"
+              "videoUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-240p.m3u8"
             },
             {
               "title": "480p",
