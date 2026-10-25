@@ -1,13 +1,13 @@
 {
   "channels": [
     {
-      "id": "ARENA",
-      "title": "ARENASPORT",
+      "id": "jj",
+      "title": "jj",
       "category": "عام",
       "group": "",
       "logoUrl": "",
       "subtitle": "",
-      "videoUrl": "https:\/\/live-cdn.ryazanslah3.space\/hls\/bein1.m3u8",
+      "videoUrl": "https:\/\/cp11.adabmedia.com\/hls2\/tv3test.m3u8",
       "referer": "",
       "servers": [],
       "enabled": true
