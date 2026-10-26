@@ -225,12 +225,208 @@
         }
       ],
       "enabled": true
+    },
+    {
+      "id": "aloan1",
+      "title": "ألاوان 1 4K",
+      "category": "section_1793041780086",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
+      "subtitle": "",
+      "videoUrl": "",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "4K",
+              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738894"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "aloan2",
+      "title": "الوان 2",
+      "category": "section_1793041780086",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
+      "subtitle": "",
+      "videoUrl": "",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "4K",
+              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738893"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "aloan3",
+      "title": "الوان 3",
+      "category": "section_1793041780086",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
+      "subtitle": "",
+      "videoUrl": "",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "4K",
+              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738892"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "aloan4",
+      "title": "الوان 4",
+      "category": "section_1793041780086",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
+      "subtitle": "",
+      "videoUrl": "",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "4K",
+              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738891"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "aloan5",
+      "title": "الوان 5",
+      "category": "section_1793041780086",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
+      "subtitle": "",
+      "videoUrl": "",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "4K",
+              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738890"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "aloan6",
+      "title": "الوان 6",
+      "category": "section_1793041780086",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
+      "subtitle": "",
+      "videoUrl": "",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "4K",
+              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738889"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "aloan7",
+      "title": "الوان 7",
+      "category": "section_1793041780086",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
+      "subtitle": "",
+      "videoUrl": "",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "4K",
+              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738888"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "aloan8",
+      "title": "الوان 8",
+      "category": "section_1793041780086",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
+      "subtitle": "",
+      "videoUrl": "",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "4K",
+              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738887"
+            }
+          ]
+        }
+      ],
+      "enabled": true
     }
   ],
   "categories": [
     {
       "id": "section_1792949120303",
       "name": "Bein sport"
+    },
+    {
+      "id": "section_1793041780086",
+      "name": "ألاوان 4K"
     }
   ]
 }
