@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v1.0.9/DramaTV-debug.apk",
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.0/DramaTV.apk",
   "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
-  "changelog": "تم إصدار تحديث جديد من DramaTV يتضمن تحسينات على مشغّل الفيديو وحظر الإعلانات. حدّث التطبيق الآن واستمتع بتجربة مشاهدة أفضل! ❤️.",
+  "changelog": "هذة التحديث تم أضافه قسم القنوات الرياضية استمتع",
   "forceUpdate": false
 }
