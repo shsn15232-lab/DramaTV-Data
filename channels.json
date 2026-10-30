@@ -448,7 +448,7 @@
       "category": "section_1793376097204",
       "group": "",
       "logoUrl": "",
-      "poster": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/saad-tv\/main\/dijlah-poster.png",
       "subtitle": "",
       "videoUrl": "https:\/\/ghaasiflu.online\/Dijlah\/tracks-v1a1\/mono.m3u8",
       "referer": "",
@@ -472,7 +472,7 @@
       "category": "section_1793376097204",
       "group": "",
       "logoUrl": "",
-      "poster": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/saad-tv\/main\/utv-poster.png",
       "subtitle": "",
       "videoUrl": "https:\/\/utviraqi-live.lg.mncdn.com\/utviraqi-live\/64c80359\/chunklist_w1242345864.m3u8",
       "referer": "",
@@ -484,6 +484,78 @@
             {
               "title": "تلقائي",
               "videoUrl": "https:\/\/utviraqi-live.lg.mncdn.com\/utviraqi-live\/64c80359\/chunklist_w1242345864.m3u8"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "iraq",
+      "title": "العراقية",
+      "category": "section_1793376097204",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/saad-tv\/main\/iraqiya-poster.png",
+      "subtitle": "",
+      "videoUrl": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-general.m3u8?sid=rdmcy5e6mok2j3ab",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "HD",
+              "videoUrl": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-general.m3u8?sid=rdmcy5e6mok2j3ab"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "iraqsport",
+      "title": "العراقية الرياضية",
+      "category": "section_1793376097204",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-sports-1.m3u8?sid=rdmcy5e6mok2j3ab",
+      "subtitle": "",
+      "videoUrl": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-sports-1.m3u8?sid=rdmcy5e6mok2j3ab",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "HD",
+              "videoUrl": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-sports-1.m3u8?sid=rdmcy5e6mok2j3ab"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "korde",
+      "title": "كوردى",
+      "category": "section_1793376097204",
+      "group": "",
+      "logoUrl": "",
+      "poster": "https:\/\/www.google.com\/search?vsrid=CKidpYGL7ovv7gEQAhgBIiRmZGRkODVhYi0wZGZjLTQ2NjQtYmE1MC00NjFjNzQzNDYwNTUygQEiAnJhKA1CcwoubGZlLWR1bW15OmFiOWUxNzk3LWUxM2EtNGY2Ny1hOTIzLWE1ZWIyNDRlNjdiORJBCj8vYm5zL3JhL2JvcmcvcmEvYm5zL2xlbnMtZnJvbnRlbmQtYXBpL3Byb2QubGVucy1mcm9udGVuZC1hcGkvNTJaBAoCcmE4xq3W56DilwM&vsint=CAIqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABEJADGJADJQAAgD8&udm=26&lns_mode=un&source=lns.web.quimby&vsdim=400,400&gsessionid=UNxz65WRWHj_ZYecBPewUa4tvtbYDxWXc39W8HYrDl1aF_ju4rA2-A&lsessionid=39Y4kJG80e88GmgqnvzcZ6PJh7CN2K4opm89SGcmwD6tOi4KFUGhvg&lns_surface=26",
+      "subtitle": "",
+      "videoUrl": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-kurdish.m3u8?sid=nfnxq3utmpb86051",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "HD",
+              "videoUrl": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-kurdish.m3u8?sid=nfnxq3utmpb86051"
             }
           ]
         }
