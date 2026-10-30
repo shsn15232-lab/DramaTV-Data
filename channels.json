@@ -426,7 +426,7 @@
       "logoUrl": "",
       "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alsumaria-poster.png",
       "subtitle": "",
-      "videoUrl": "",
+      "videoUrl": "https:\/\/live.kwikmotion.com\/alsumariatvlive\/sumariamob.smil\/sumariapublish\/live_240p\/hdntl=exp=1793463666~acl=%2falsumariatvlive%2fsumariamob.smil%2f*~data=hdntl~hmac=77ed7a130d7883ccef932497c04fe16f716f9c20d6ff9c15e8cc3b2831a5b88d\/chunks.m3u8?hdnts=exp=1793377294~acl=\/alsumariatvlive\/sumariamob.smil\/*~hmac=054aa0f730669fca260080221166948db73adb11715df5b09b64f21c43529d2a",
       "referer": "",
       "servers": [
         {
@@ -436,6 +436,54 @@
             {
               "title": "تلقائي",
               "videoUrl": "https:\/\/live.kwikmotion.com\/alsumariatvlive\/sumariamob.smil\/sumariapublish\/live_240p\/hdntl=exp=1793463666~acl=%2falsumariatvlive%2fsumariamob.smil%2f*~data=hdntl~hmac=77ed7a130d7883ccef932497c04fe16f716f9c20d6ff9c15e8cc3b2831a5b88d\/chunks.m3u8?hdnts=exp=1793377294~acl=\/alsumariatvlive\/sumariamob.smil\/*~hmac=054aa0f730669fca260080221166948db73adb11715df5b09b64f21c43529d2a"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "Dicle",
+      "title": "دجلة",
+      "category": "section_1793376097204",
+      "group": "",
+      "logoUrl": "",
+      "poster": "",
+      "subtitle": "",
+      "videoUrl": "https:\/\/ghaasiflu.online\/Dijlah\/tracks-v1a1\/mono.m3u8",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "1080",
+              "videoUrl": "https:\/\/ghaasiflu.online\/Dijlah\/tracks-v1a1\/mono.m3u8"
+            }
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "utv",
+      "title": "UTV",
+      "category": "section_1793376097204",
+      "group": "",
+      "logoUrl": "",
+      "poster": "",
+      "subtitle": "",
+      "videoUrl": "https:\/\/utviraqi-live.lg.mncdn.com\/utviraqi-live\/64c80359\/chunklist_w1242345864.m3u8",
+      "referer": "",
+      "servers": [
+        {
+          "id": "server1",
+          "name": "السيرفر الأول",
+          "qualities": [
+            {
+              "title": "تلقائي",
+              "videoUrl": "https:\/\/utviraqi-live.lg.mncdn.com\/utviraqi-live\/64c80359\/chunklist_w1242345864.m3u8"
             }
           ]
         }
