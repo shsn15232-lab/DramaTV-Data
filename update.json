@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.0/DramaTV.apk",
+  "versionCode": 12,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.1/DramaTV.apk",
   "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
-  "changelog": "هذة التحديث تم أضافه قسم القنوات الرياضية استمتع",
+  "changelog": "تم تحديث قسم الافلام واصبح بدون اعلانات نهائيا القادم أفضل",
   "forceUpdate": false
 }
