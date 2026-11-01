@@ -1,0 +1,16 @@
+
+{
+  "version": 1,
+  "total_series": 15902,
+  "parts": [
+    "https://raw.githubusercontent.com/shsn15232-lab/DramaTV-Data/main/series/series/series_001.json",
+    "https://raw.githubusercontent.com/shsn15232-lab/DramaTV-Data/main/series/series/series_002.json",
+    "https://raw.githubusercontent.com/shsn15232-lab/DramaTV-Data/main/series/series/series_003.json",
+    "https://raw.githubusercontent.com/shsn15232-lab/DramaTV-Data/main/series/series/series_004.json",
+    "https://raw.githubusercontent.com/shsn15232-lab/DramaTV-Data/main/series/series/series_005.json",
+    "https://raw.githubusercontent.com/shsn15232-lab/DramaTV-Data/main/series/series/series_006.json",
+    "https://raw.githubusercontent.com/shsn15232-lab/DramaTV-Data/main/series/series/series_007.json",
+    "https://raw.githubusercontent.com/shsn15232-lab/DramaTV-Data/main/series/series/series_008.json",
+    "https://raw.githubusercontent.com/shsn15232-lab/DramaTV-Data/main/series/series/series_009.json"
+  ]
+}
