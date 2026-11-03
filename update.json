@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.2/DramaTV.apk",
+  "versionCode": 14,
+  "versionName": "2.3",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.3/DramaTV.apk",
   "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
-  "changelog": "تم تحديث قسم الافلام والمسلسلات واصبح بدون اعلانات نهائيا القادم أفضل",
+  "changelog": "تحديث تحسينات مهمه",
   "forceUpdate": false
 }
