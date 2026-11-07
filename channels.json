@@ -41,27 +41,7 @@
           "qualities": [
             {
               "title": "S1",
-              "videoUrl": "http:\/\/silka.m3um9xplus.org:2052\/live\/29938654291415\/49071921116498\/677022.ts"
-            },
-            {
-              "title": "S2",
-              "videoUrl": "https:\/\/primetv.cc.cd\/beinfhd2\/index.m3u8"
-            },
-            {
-              "title": "240p",
-              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein2-240p.m3u8"
-            },
-            {
-              "title": "480",
-              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein2-480p.m3u8"
-            },
-            {
-              "title": "720p",
-              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein2-720p.m3u8"
-            },
-            {
-              "title": "1080p",
-              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein2-1080p.m3u8"
+              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798829.m3u8"
             }
           ]
         }
@@ -85,23 +65,7 @@
           "qualities": [
             {
               "title": "S1",
-              "videoUrl": "http:\/\/silka.m3um9xplus.org:2052\/live\/29938654291415\/49071921116498\/677023.ts"
-            },
-            {
-              "title": "240p",
-              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-240p.m3u8"
-            },
-            {
-              "title": "480p",
-              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-480p.m3u8"
-            },
-            {
-              "title": "720p",
-              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-720p.m3u8"
-            },
-            {
-              "title": "1080p",
-              "videoUrl": "https:\/\/live-tv-116849026166.europe-west1.run.app\/api\/korasport\/stream\/bein3-1080p.m3u8"
+              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798830.m3u8"
             }
           ]
         }
@@ -135,7 +99,7 @@
           "qualities": [
             {
               "title": "S2",
-              "videoUrl": "https:\/\/bein4.houdatv.workers.dev\/live.m3u8?key=68452"
+              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798831.m3u8"
             }
           ]
         }
@@ -159,7 +123,7 @@
           "qualities": [
             {
               "title": "تلقائي",
-              "videoUrl": "http:\/\/silka.m3um9xplus.org:2052\/live\/29938654291415\/49071921116498\/677025.ts"
+              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798833.m3u8"
             }
           ]
         }
@@ -183,7 +147,7 @@
           "qualities": [
             {
               "title": "تلقائي",
-              "videoUrl": "http:\/\/silka.m3um9xplus.org:2052\/live\/29938654291415\/49071921116498\/677026.ts"
+              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798834.m3u8"
             }
           ]
         }
@@ -207,7 +171,7 @@
           "qualities": [
             {
               "title": "تلقائي",
-              "videoUrl": "http:\/\/silka.m3um9xplus.org:2052\/live\/29938654291415\/49071921116498\/677027.ts"
+              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798835.m3u8"
             }
           ]
         }
