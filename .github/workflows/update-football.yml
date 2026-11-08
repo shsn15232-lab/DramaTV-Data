@@ -26,6 +26,7 @@ jobs:
           import sys
           from datetime import datetime, timedelta
           from zoneinfo import ZoneInfo
+          from urllib.parse import urlencode
           from urllib.request import Request, urlopen
 
           key = os.environ.get("FOOTBALL_API_KEY", "").strip()
@@ -35,49 +36,31 @@ jobs:
           base = "https://v3.football.api-sports.io"
           headers = {"x-apisports-key": key}
           baghdad = ZoneInfo("Asia/Baghdad")
-          today = datetime.now(baghdad).date()
+          now = datetime.now(baghdad)
+          today = now.date()
 
           def fetch(path, params):
-              url = f"{base}{path}?{params}"
+              url = f"{base}{path}?{urlencode(params)}"
               request = Request(url, headers=headers)
 
               with urlopen(request, timeout=30) as response:
-                  data = json.loads(response.read().decode("utf-8"))
+                  data = json.loads(
+                      response.read().decode("utf-8")
+                  )
 
               if data.get("errors"):
                   raise RuntimeError(str(data["errors"]))
 
-              return {
-                  "updated_at": datetime.now(baghdad).isoformat(),
-                  "response": data.get("response", [])
-              }
+              result = data.get("response", [])
 
-          os.makedirs("football", exist_ok=True)
+              if not isinstance(result, list):
+                  raise RuntimeError("Invalid API response")
 
-          live = fetch(
-              "/fixtures",
-              "live=all&timezone=Asia/Baghdad"
-          )
+              return result
 
-          today_data = fetch(
-              "/fixtures",
-              f"date={today.isoformat()}&timezone=Asia/Baghdad"
-          )
+          def save_json(path, data):
+              os.makedirs(os.path.dirname(path), exist_ok=True)
 
-          tomorrow = today + timedelta(days=1)
-
-          tomorrow_data = fetch(
-              "/fixtures",
-              f"date={tomorrow.isoformat()}&timezone=Asia/Baghdad"
-          )
-
-          datasets = {
-              "football/live.json": live,
-              "football/today.json": today_data,
-              "football/upcoming.json": tomorrow_data
-          }
-
-          for path, data in datasets.items():
               with open(path, "w", encoding="utf-8") as file:
                   json.dump(
                       data,
@@ -86,7 +69,203 @@ jobs:
                       separators=(",", ":")
                   )
 
-              print(f"{path}: {len(data['response'])} matches")
+          os.makedirs("football", exist_ok=True)
+
+          # =====================================
+          # LIVE / TODAY / TOMORROW
+          # =====================================
+
+          live = fetch(
+              "/fixtures",
+              {
+                  "live": "all",
+                  "timezone": "Asia/Baghdad"
+              }
+          )
+
+          today_data = fetch(
+              "/fixtures",
+              {
+                  "date": today.isoformat(),
+                  "timezone": "Asia/Baghdad"
+              }
+          )
+
+          tomorrow = today + timedelta(days=1)
+
+          tomorrow_data = fetch(
+              "/fixtures",
+              {
+                  "date": tomorrow.isoformat(),
+                  "timezone": "Asia/Baghdad"
+              }
+          )
+
+          datasets = {
+              "football/live.json": live,
+              "football/today.json": today_data,
+              "football/upcoming.json": tomorrow_data
+          }
+
+          for path, response_data in datasets.items():
+              save_json(
+                  path,
+                  {
+                      "updated_at": now.isoformat(),
+                      "response": response_data
+                  }
+              )
+
+              print(
+                  f"{path}: {len(response_data)} matches"
+              )
+
+          # =====================================
+          # LEAGUE STATISTICS
+          # =====================================
+
+          leagues = [
+              {
+                  "id": 140,
+                  "name": "الدوري الإسباني"
+              },
+              {
+                  "id": 39,
+                  "name": "الدوري الإنجليزي"
+              },
+              {
+                  "id": 135,
+                  "name": "الدوري الإيطالي"
+              },
+              {
+                  "id": 78,
+                  "name": "الدوري الألماني"
+              },
+              {
+                  "id": 61,
+                  "name": "الدوري الفرنسي"
+              }
+          ]
+
+          season = 2026
+
+          marker_path = "football/stats/last_attempt.json"
+          os.makedirs("football/stats", exist_ok=True)
+
+          last_attempt = {}
+
+          if os.path.exists(marker_path):
+              try:
+                  with open(marker_path, "r", encoding="utf-8") as file:
+                      last_attempt = json.load(file)
+              except Exception:
+                  last_attempt = {}
+
+          if last_attempt.get("date") == today.isoformat():
+              print("League statistics already attempted today")
+
+          else:
+              # Save the attempt date to prevent repeated API calls.
+              save_json(
+                  marker_path,
+                  {
+                      "date": today.isoformat(),
+                      "updated_at": now.isoformat()
+                  }
+              )
+
+              for league in leagues:
+                  league_id = league["id"]
+
+                  try:
+                      print(
+                          f"Fetching {league['name']}..."
+                      )
+
+                      standings = fetch(
+                          "/standings",
+                          {
+                              "league": league_id,
+                              "season": season
+                          }
+                      )
+
+                      scorers = fetch(
+                          "/players/topscorers",
+                          {
+                              "league": league_id,
+                              "season": season
+                          }
+                      )
+
+                      assists = fetch(
+                          "/players/topassists",
+                          {
+                              "league": league_id,
+                              "season": season
+                          }
+                      )
+
+                      league_info = {}
+
+                      if standings:
+                          league_info = (
+                              standings[0].get("league", {})
+                          )
+
+                      stats = {
+                          "updated_at": datetime.now(
+                              baghdad
+                          ).isoformat(),
+
+                          "league_id": league_id,
+                          "season": season,
+                          "name_ar": league["name"],
+
+                          "league": {
+                              "id": league_info.get(
+                                  "id", league_id
+                              ),
+                              "name": league_info.get(
+                                  "name", ""
+                              ),
+                              "country": league_info.get(
+                                  "country", ""
+                              ),
+                              "logo": league_info.get(
+                                  "logo", ""
+                              )
+                          },
+
+                          "standings": (
+                              league_info.get(
+                                  "standings", []
+                              )
+                          ),
+
+                          "top_scorers": scorers,
+                          "top_assists": assists
+                      }
+
+                      output_path = (
+                          f"football/stats/{league_id}.json"
+                      )
+
+                      save_json(output_path, stats)
+
+                      print(
+                          f"SUCCESS: {league['name']} | "
+                          f"Teams: {sum(len(group) for group in stats['standings'])} | "
+                          f"Scorers: {len(scorers)} | "
+                          f"Assists: {len(assists)}"
+                      )
+
+                  except Exception as error:
+                      print(
+                          f"FAILED: {league['name']}: {error}"
+                      )
+
+          print("Football data update completed")
 
           PY
 
@@ -95,11 +274,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add football/*.json
+          git add football/*.json football/stats/*.json
 
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Update football data"
+            git commit -m "Update football matches and statistics"
             git push
           fi
