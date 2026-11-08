@@ -1,0 +1,79 @@
+
+name: Test Football Data API
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test all five leagues
+        env:
+          FOOTBALL_DATA_API_TOKEN: ${{ secrets.FOOTBALL_DATA_API_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os
+          import json
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError, URLError
+
+          token = os.environ.get("FOOTBALL_DATA_API_TOKEN", "").strip()
+
+          if not token:
+              raise SystemExit("ERROR: Missing API token")
+
+          leagues = {
+              "PL": "الدوري الإنجليزي",
+              "PD": "الدوري الإسباني",
+              "SA": "الدوري الإيطالي",
+              "BL1": "الدوري الألماني",
+              "FL1": "الدوري الفرنسي"
+          }
+
+          failed = []
+
+          for code, name in leagues.items():
+              url = (
+                  "https://api.football-data.org/v4/"
+                  f"competitions/{code}/standings?season=2026"
+              )
+
+              req = Request(
+                  url,
+                  headers={"X-Auth-Token": token}
+              )
+
+              try:
+                  with urlopen(req, timeout=25) as response:
+                      data = json.loads(response.read().decode("utf-8"))
+
+                  tables = data.get("standings", [])
+                  total = sum(len(t.get("table", [])) for t in tables)
+
+                  print(f"SUCCESS: {name} | Teams: {total}")
+
+                  for table in tables:
+                      if table.get("type") == "TOTAL":
+                          for team in table.get("table", [])[:3]:
+                              print(
+                                  f"  {team.get('position')}. "
+                                  f"{team.get('team', {}).get('name')} "
+                                  f"- {team.get('points')} points"
+                              )
+
+              except HTTPError as e:
+                  print(f"FAILED: {name} | HTTP {e.code}")
+                  failed.append(code)
+
+              except (URLError, TimeoutError, ValueError) as e:
+                  print(f"FAILED: {name} | {type(e).__name__}")
+                  failed.append(code)
+
+          print("\nRESULT:", "FAILED " + ", ".join(failed)
+                if failed else "ALL FIVE LEAGUES PASSED")
+
+          if failed:
+              raise SystemExit(1)
+          PY
