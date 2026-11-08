@@ -12,6 +12,7 @@ permissions:
 jobs:
   update-football:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -24,7 +25,7 @@ jobs:
           import json
           import os
           import sys
-          from datetime import datetime
+          from datetime import datetime, timedelta
           from zoneinfo import ZoneInfo
           from urllib.request import Request, urlopen
 
@@ -35,7 +36,8 @@ jobs:
           base = "https://v3.football.api-sports.io"
           headers = {"x-apisports-key": key}
           baghdad = ZoneInfo("Asia/Baghdad")
-          today = datetime.now(baghdad).date().isoformat()
+          now = datetime.now(baghdad)
+          today = now.date()
 
           def fetch(path, params):
               url = f"{base}{path}?{params}"
@@ -54,23 +56,48 @@ jobs:
 
           os.makedirs("football", exist_ok=True)
 
-          datasets = {
-              "football/live.json": fetch(
-                  "/fixtures", "live=all&timezone=Asia/Baghdad"
-              ),
-              "football/today.json": fetch(
-                  "/fixtures", f"date={today}&timezone=Asia/Baghdad"
-              ),
-              "football/upcoming.json": fetch(
-                  "/fixtures", "next=50&timezone=Asia/Baghdad"
+          live = fetch(
+              "/fixtures",
+              "live=all&timezone=Asia/Baghdad"
+          )
+
+          today_data = fetch(
+              "/fixtures",
+              f"date={today.isoformat()}&timezone=Asia/Baghdad"
+          )
+
+          upcoming_matches = []
+
+          for offset in range(1, 8):
+              match_date = (today + timedelta(days=offset)).isoformat()
+
+              day_data = fetch(
+                  "/fixtures",
+                  f"date={match_date}&timezone=Asia/Baghdad"
               )
+
+              upcoming_matches.extend(day_data["response"])
+
+          upcoming = {
+              "updated_at": datetime.now(baghdad).isoformat(),
+              "response": upcoming_matches
+          }
+
+          datasets = {
+              "football/live.json": live,
+              "football/today.json": today_data,
+              "football/upcoming.json": upcoming
           }
 
           for path, data in datasets.items():
               with open(path, "w", encoding="utf-8") as file:
                   json.dump(
-                      data, file, ensure_ascii=False, separators=(",", ":")
+                      data,
+                      file,
+                      ensure_ascii=False,
+                      separators=(",", ":")
                   )
+
               print(f"{path}: {len(data['response'])} matches")
 
           PY
@@ -80,6 +107,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add football/*.json
+
           if git diff --cached --quiet; then
             echo "No changes"
           else
