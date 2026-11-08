@@ -19,6 +19,7 @@ jobs:
       - name: Fetch football data
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: |
           python3 - <<'PY'
           import json
@@ -116,41 +117,28 @@ jobs:
                   }
               )
 
-              print(
-                  f"{path}: {len(response_data)} matches"
-              )
+              print(f"{path}: {len(response_data)} matches")
 
           # =====================================
           # LEAGUE STATISTICS
           # =====================================
 
           leagues = [
-              {
-                  "id": 140,
-                  "name": "الدوري الإسباني"
-              },
-              {
-                  "id": 39,
-                  "name": "الدوري الإنجليزي"
-              },
-              {
-                  "id": 135,
-                  "name": "الدوري الإيطالي"
-              },
-              {
-                  "id": 78,
-                  "name": "الدوري الألماني"
-              },
-              {
-                  "id": 61,
-                  "name": "الدوري الفرنسي"
-              }
+              {"id": 140, "name": "الدوري الإسباني"},
+              {"id": 39, "name": "الدوري الإنجليزي"},
+              {"id": 135, "name": "الدوري الإيطالي"},
+              {"id": 78, "name": "الدوري الألماني"},
+              {"id": 61, "name": "الدوري الفرنسي"}
           ]
 
           season = 2026
 
           marker_path = "football/stats/last_attempt.json"
           os.makedirs("football/stats", exist_ok=True)
+
+          manual_run = (
+              os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+          )
 
           last_attempt = {}
 
@@ -161,26 +149,22 @@ jobs:
               except Exception:
                   last_attempt = {}
 
-          if last_attempt.get("date") == today.isoformat():
-              print("League statistics already attempted today")
+          should_fetch_stats = (
+              manual_run
+              or last_attempt.get("date") != today.isoformat()
+          )
+
+          if not should_fetch_stats:
+              print("League statistics already updated today")
 
           else:
-              # Save the attempt date to prevent repeated API calls.
-              save_json(
-                  marker_path,
-                  {
-                      "date": today.isoformat(),
-                      "updated_at": now.isoformat()
-                  }
-              )
+              failures = []
 
               for league in leagues:
                   league_id = league["id"]
 
                   try:
-                      print(
-                          f"Fetching {league['name']}..."
-                      )
+                      print(f"Fetching {league['name']}...")
 
                       standings = fetch(
                           "/standings",
@@ -209,9 +193,7 @@ jobs:
                       league_info = {}
 
                       if standings:
-                          league_info = (
-                              standings[0].get("league", {})
-                          )
+                          league_info = standings[0].get("league", {})
 
                       stats = {
                           "updated_at": datetime.now(
@@ -223,24 +205,14 @@ jobs:
                           "name_ar": league["name"],
 
                           "league": {
-                              "id": league_info.get(
-                                  "id", league_id
-                              ),
-                              "name": league_info.get(
-                                  "name", ""
-                              ),
-                              "country": league_info.get(
-                                  "country", ""
-                              ),
-                              "logo": league_info.get(
-                                  "logo", ""
-                              )
+                              "id": league_info.get("id", league_id),
+                              "name": league_info.get("name", ""),
+                              "country": league_info.get("country", ""),
+                              "logo": league_info.get("logo", "")
                           },
 
-                          "standings": (
-                              league_info.get(
-                                  "standings", []
-                              )
+                          "standings": league_info.get(
+                              "standings", []
                           ),
 
                           "top_scorers": scorers,
@@ -261,9 +233,31 @@ jobs:
                       )
 
                   except Exception as error:
-                      print(
+                      message = (
                           f"FAILED: {league['name']}: {error}"
                       )
+                      print(message)
+                      failures.append(message)
+
+              if failures:
+                  print("Some league statistics could not be updated:")
+                  for failure in failures:
+                      print(failure)
+
+                  sys.exit(1)
+
+              save_json(
+                  marker_path,
+                  {
+                      "date": today.isoformat(),
+                      "updated_at": datetime.now(
+                          baghdad
+                      ).isoformat(),
+                      "status": "success"
+                  }
+              )
+
+              print("All league statistics updated successfully")
 
           print("Football data update completed")
 
