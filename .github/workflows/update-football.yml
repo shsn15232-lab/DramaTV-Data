@@ -36,8 +36,7 @@ jobs:
           base = "https://v3.football.api-sports.io"
           headers = {"x-apisports-key": key}
           baghdad = ZoneInfo("Asia/Baghdad")
-          now = datetime.now(baghdad)
-          today = now.date()
+          today = datetime.now(baghdad).date()
 
           def fetch(path, params):
               url = f"{base}{path}?{params}"
@@ -66,27 +65,17 @@ jobs:
               f"date={today.isoformat()}&timezone=Asia/Baghdad"
           )
 
-          upcoming_matches = []
+          tomorrow = today + timedelta(days=1)
 
-          for offset in range(1, 8):
-              match_date = (today + timedelta(days=offset)).isoformat()
-
-              day_data = fetch(
-                  "/fixtures",
-                  f"date={match_date}&timezone=Asia/Baghdad"
-              )
-
-              upcoming_matches.extend(day_data["response"])
-
-          upcoming = {
-              "updated_at": datetime.now(baghdad).isoformat(),
-              "response": upcoming_matches
-          }
+          tomorrow_data = fetch(
+              "/fixtures",
+              f"date={tomorrow.isoformat()}&timezone=Asia/Baghdad"
+          )
 
           datasets = {
               "football/live.json": live,
               "football/today.json": today_data,
-              "football/upcoming.json": upcoming
+              "football/upcoming.json": tomorrow_data
           }
 
           for path, data in datasets.items():
