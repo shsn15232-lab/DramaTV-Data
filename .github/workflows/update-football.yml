@@ -17,10 +17,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch football data
+      - name: Fetch football matches
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
-          GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: |
           python3 - <<'PY'
           import json
@@ -32,14 +31,17 @@ jobs:
           from urllib.request import Request, urlopen
 
           key = os.environ.get("FOOTBALL_API_KEY", "").strip()
+
           if not key:
               sys.exit("Missing FOOTBALL_API_KEY secret")
 
           base = "https://v3.football.api-sports.io"
           headers = {"x-apisports-key": key}
+
           baghdad = ZoneInfo("Asia/Baghdad")
           now = datetime.now(baghdad)
           today = now.date()
+          tomorrow = today + timedelta(days=1)
 
           def fetch(path, params):
               url = f"{base}{path}?{urlencode(params)}"
@@ -61,7 +63,10 @@ jobs:
               return result
 
           def save_json(path, data):
-              os.makedirs(os.path.dirname(path), exist_ok=True)
+              os.makedirs(
+                  os.path.dirname(path),
+                  exist_ok=True
+              )
 
               with open(path, "w", encoding="utf-8") as file:
                   json.dump(
@@ -74,8 +79,10 @@ jobs:
           os.makedirs("football", exist_ok=True)
 
           # =====================================
-          # LIVE / TODAY / TOMORROW
+          # LIVE MATCHES
           # =====================================
+
+          print("Fetching live matches...")
 
           live = fetch(
               "/fixtures",
@@ -85,6 +92,12 @@ jobs:
               }
           )
 
+          # =====================================
+          # TODAY MATCHES
+          # =====================================
+
+          print("Fetching today's matches...")
+
           today_data = fetch(
               "/fixtures",
               {
@@ -93,7 +106,11 @@ jobs:
               }
           )
 
-          tomorrow = today + timedelta(days=1)
+          # =====================================
+          # TOMORROW MATCHES
+          # =====================================
+
+          print("Fetching tomorrow's matches...")
 
           tomorrow_data = fetch(
               "/fixtures",
@@ -103,6 +120,10 @@ jobs:
               }
           )
 
+          # =====================================
+          # SAVE FOOTBALL DATA
+          # =====================================
+
           datasets = {
               "football/live.json": live,
               "football/today.json": today_data,
@@ -110,6 +131,7 @@ jobs:
           }
 
           for path, response_data in datasets.items():
+
               save_json(
                   path,
                   {
@@ -118,168 +140,36 @@ jobs:
                   }
               )
 
-              print(f"{path}: {len(response_data)} matches")
-
-          # =====================================
-          # LEAGUE STATISTICS - OLD API
-          # =====================================
-
-          leagues = [
-              {"id": 140, "name": "الدوري الإسباني"},
-              {"id": 39, "name": "الدوري الإنجليزي"},
-              {"id": 135, "name": "الدوري الإيطالي"},
-              {"id": 78, "name": "الدوري الألماني"},
-              {"id": 61, "name": "الدوري الفرنسي"}
-          ]
-
-          season = 2026
-
-          marker_path = "football/stats/last_attempt.json"
-          os.makedirs("football/stats", exist_ok=True)
-
-          manual_run = (
-              os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
-          )
-
-          last_attempt = {}
-
-          if os.path.exists(marker_path):
-              try:
-                  with open(marker_path, "r", encoding="utf-8") as file:
-                      last_attempt = json.load(file)
-              except Exception:
-                  last_attempt = {}
-
-          should_fetch_stats = (
-              manual_run
-              or last_attempt.get("date") != today.isoformat()
-          )
-
-          if not should_fetch_stats:
-              print("League statistics already updated today")
-
-          else:
-              failures = []
-
-              for league in leagues:
-                  league_id = league["id"]
-
-                  try:
-                      print(f"Fetching {league['name']}...")
-
-                      standings = fetch(
-                          "/standings",
-                          {
-                              "league": league_id,
-                              "season": season
-                          }
-                      )
-
-                      scorers = fetch(
-                          "/players/topscorers",
-                          {
-                              "league": league_id,
-                              "season": season
-                          }
-                      )
-
-                      assists = fetch(
-                          "/players/topassists",
-                          {
-                              "league": league_id,
-                              "season": season
-                          }
-                      )
-
-                      league_info = {}
-
-                      if standings:
-                          league_info = standings[0].get("league", {})
-
-                      stats = {
-                          "updated_at": datetime.now(
-                              baghdad
-                          ).isoformat(),
-
-                          "league_id": league_id,
-                          "season": season,
-                          "name_ar": league["name"],
-
-                          "league": {
-                              "id": league_info.get("id", league_id),
-                              "name": league_info.get("name", ""),
-                              "country": league_info.get("country", ""),
-                              "logo": league_info.get("logo", "")
-                          },
-
-                          "standings": league_info.get(
-                              "standings", []
-                          ),
-
-                          "top_scorers": scorers,
-                          "top_assists": assists
-                      }
-
-                      output_path = (
-                          f"football/stats/{league_id}.json"
-                      )
-
-                      save_json(output_path, stats)
-
-                      print(
-                          f"SUCCESS: {league['name']} | "
-                          f"Teams: {sum(len(group) for group in stats['standings'])} | "
-                          f"Scorers: {len(scorers)} | "
-                          f"Assists: {len(assists)}"
-                      )
-
-                  except Exception as error:
-                      message = (
-                          f"FAILED: {league['name']}: {error}"
-                      )
-                      print(message)
-                      failures.append(message)
-
-              if failures:
-                  print("Some league statistics could not be updated:")
-                  for failure in failures:
-                      print(failure)
-
-                  sys.exit(1)
-
-              save_json(
-                  marker_path,
-                  {
-                      "date": today.isoformat(),
-                      "updated_at": datetime.now(
-                          baghdad
-                      ).isoformat(),
-                      "status": "success"
-                  }
+              print(
+                  f"SUCCESS: {path} | "
+                  f"Matches: {len(response_data)}"
               )
 
-              print("All league statistics updated successfully")
-
-          print("Football data update completed")
+          print("=" * 50)
+          print("Football matches updated successfully")
+          print(f"Live: {len(live)}")
+          print(f"Today: {len(today_data)}")
+          print(f"Tomorrow: {len(tomorrow_data)}")
+          print("=" * 50)
 
           PY
 
-      - name: Commit updated data
+      - name: Commit updated football data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add football/*.json football/stats/*.json
+          git add -f football/live.json football/today.json football/upcoming.json
 
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Update football matches and statistics"
+            git commit -m "Update football matches"
             git push
           fi
 
   # =====================================
-  # SPORTScore API TEST
+  # SPORTScore API TEST (INDEPENDENT)
   # =====================================
 
   test-sportscore:
@@ -320,6 +210,7 @@ jobs:
           base = "https://sportscore.com/api/widget"
 
           def test_endpoint(endpoint, slug, extra=None):
+
               params = {
                   "sport": "football",
                   "slug": slug
@@ -342,11 +233,13 @@ jobs:
               )
 
               with urlopen(request, timeout=30) as response:
+
                   body = response.read().decode("utf-8")
                   data = json.loads(body)
 
                   print("HTTP:", response.status)
                   print("URL:", url)
+
                   print(
                       json.dumps(
                           data,
@@ -357,6 +250,7 @@ jobs:
                   return data
 
           for league in leagues:
+
               slug = league["slug"]
 
               print("\n" + "=" * 60)
@@ -376,10 +270,12 @@ jobs:
               ]
 
               for endpoint, extra in tests:
+
                   print("\nENDPOINT:", endpoint, extra)
 
                   try:
-                      data = test_endpoint(
+
+                      test_endpoint(
                           endpoint,
                           slug,
                           extra
@@ -388,6 +284,7 @@ jobs:
                       print("RESULT: SUCCESS")
 
                   except Exception as error:
+
                       print("RESULT: FAILED")
                       print("ERROR:", str(error))
 
