@@ -1,3 +1,4 @@
+
 name: Update DramaTV Football Data
 
 on:
@@ -120,7 +121,7 @@ jobs:
               print(f"{path}: {len(response_data)} matches")
 
           # =====================================
-          # LEAGUE STATISTICS
+          # LEAGUE STATISTICS - OLD API
           # =====================================
 
           leagues = [
@@ -276,3 +277,120 @@ jobs:
             git commit -m "Update football matches and statistics"
             git push
           fi
+
+  # =====================================
+  # SPORTScore API TEST
+  # =====================================
+
+  test-sportscore:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test SportScore statistics API
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          import json
+          from urllib.parse import urlencode
+          from urllib.request import Request, urlopen
+
+          leagues = [
+              {
+                  "slug": "la-liga",
+                  "name": "الدوري الإسباني"
+              },
+              {
+                  "slug": "premier-league",
+                  "name": "الدوري الإنجليزي"
+              },
+              {
+                  "slug": "serie-a",
+                  "name": "الدوري الإيطالي"
+              },
+              {
+                  "slug": "bundesliga",
+                  "name": "الدوري الألماني"
+              },
+              {
+                  "slug": "ligue-1",
+                  "name": "الدوري الفرنسي"
+              }
+          ]
+
+          base = "https://sportscore.com/api/widget"
+
+          def test_endpoint(endpoint, slug, extra=None):
+              params = {
+                  "sport": "football",
+                  "slug": slug
+              }
+
+              if extra:
+                  params.update(extra)
+
+              url = (
+                  f"{base}/{endpoint}/?"
+                  f"{urlencode(params)}"
+              )
+
+              request = Request(
+                  url,
+                  headers={
+                      "User-Agent": "DramaTV-Stats-Test/1.0",
+                      "Accept": "application/json"
+                  }
+              )
+
+              with urlopen(request, timeout=30) as response:
+                  body = response.read().decode("utf-8")
+                  data = json.loads(body)
+
+                  print("HTTP:", response.status)
+                  print("URL:", url)
+                  print(
+                      json.dumps(
+                          data,
+                          ensure_ascii=False
+                      )[:3500]
+                  )
+
+                  return data
+
+          for league in leagues:
+              slug = league["slug"]
+
+              print("\n" + "=" * 60)
+              print("LEAGUE:", league["name"])
+              print("SLUG:", slug)
+
+              tests = [
+                  ("standings", {}),
+                  ("topscorers", {
+                      "limit": 10,
+                      "stat": "goals"
+                  }),
+                  ("topscorers", {
+                      "limit": 10,
+                      "stat": "assists"
+                  })
+              ]
+
+              for endpoint, extra in tests:
+                  print("\nENDPOINT:", endpoint, extra)
+
+                  try:
+                      data = test_endpoint(
+                          endpoint,
+                          slug,
+                          extra
+                      )
+
+                      print("RESULT: SUCCESS")
+
+                  except Exception as error:
+                      print("RESULT: FAILED")
+                      print("ERROR:", str(error))
+
+          print("\n" + "=" * 60)
+          print("SPORTSCORE TEST FINISHED")
+          PY
