@@ -2,36 +2,47 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>DramaTV Support</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DramaTV Support</title>
 </head>
 <body>
 <script>
-const DESTINATION = "saadtv2027@gmail.com";
+"use strict";
 
-async function sendSupport(data) {
-    const response = await fetch(
-        "https://formsubmit.co/ajax/" + DESTINATION,
-        {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json",
-                "Accept": "application/json"
-            },
-            body: JSON.stringify({
-                name: "DramaTV Support",
-                _subject: data.subject || "رسالة دعم - DramaTV",
-                message: data.message || ""
-            })
-        }
-    );
+window.sendSupport = async function(data) {
+    try {
+        const response = await fetch(
+            "https://formsubmit.co/ajax/saadtv2027@gmail.com",
+            {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Accept": "application/json"
+                },
+                body: JSON.stringify({
+                    name: "DramaTV",
+                    _subject: data.subject || "طلب دعم من DramaTV",
+                    message: data.message || ""
+                })
+            }
+        );
 
-    const result = await response.json();
-    return result;
-}
+        const result = await response.json();
 
-window.sendSupport = sendSupport;
+        return {
+            success: response.ok &&
+                String(result.success).toLowerCase() === "true",
+            message: result.message || ""
+        };
+
+    } catch (error) {
+        return {
+            success: false,
+            message: error.message || "Connection error"
+        };
+    }
+};
 </script>
 </body>
 </html>
