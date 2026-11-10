@@ -8,7 +8,7 @@
       "logoUrl": "",
       "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/bein-sports.png",
       "subtitle": "",
-      "videoUrl": "https:\/\/cp11.adabmedia.com\/hls2\/tv3test.m3u8",
+      "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/318197.ts",
       "referer": "",
       "servers": [
         {
@@ -16,8 +16,12 @@
           "name": "السيرفر الأول",
           "qualities": [
             {
-              "title": "S1",
-              "videoUrl": "http:\/\/lionsup.xyz\/live\/0566084413\/1394394776132208~ki4nr2hvqyxdq\/387286"
+              "title": "4K",
+              "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/318197.ts"
+            },
+            {
+              "title": "H265",
+              "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/391094.ts"
             }
           ]
         }
@@ -32,7 +36,7 @@
       "logoUrl": "",
       "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/bein-sports.png",
       "subtitle": "",
-      "videoUrl": "https:\/\/bein2.houdatv.workers.dev\/live.m3u8?key=68452",
+      "videoUrl": "",
       "referer": "",
       "servers": [
         {
@@ -40,8 +44,12 @@
           "name": "السيرفر الأول",
           "qualities": [
             {
-              "title": "S1",
-              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798829.m3u8"
+              "title": "4K",
+              "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/318198.ts"
+            },
+            {
+              "title": "H265",
+              "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/391095.ts"
             }
           ]
         }
@@ -56,7 +64,7 @@
       "logoUrl": "",
       "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/bein-sports.png",
       "subtitle": "",
-      "videoUrl": "https:\/\/bein3.houdatv.workers.dev\/live.m3u8?key=68452",
+      "videoUrl": "",
       "referer": "",
       "servers": [
         {
@@ -64,8 +72,12 @@
           "name": "السيرفر الأول",
           "qualities": [
             {
-              "title": "S1",
-              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798830.m3u8"
+              "title": "4K",
+              "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/318199.ts"
+            },
+            {
+              "title": "H265",
+              "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/391096.ts"
             }
           ]
         }
@@ -80,7 +92,7 @@
       "logoUrl": "",
       "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/bein-sports.png",
       "subtitle": "",
-      "videoUrl": "https:\/\/primetv.cc.cd\/beinfhd4\/index.m3u8",
+      "videoUrl": "",
       "referer": "",
       "servers": [
         {
@@ -88,18 +100,12 @@
           "name": "السيرفر الأول",
           "qualities": [
             {
-              "title": "S1",
-              "videoUrl": "http:\/\/silka.m3um9xplus.org:2052\/live\/29938654291415\/49071921116498\/677024.ts"
-            }
-          ]
-        },
-        {
-          "id": "server2",
-          "name": "السيرفر الثاني",
-          "qualities": [
+              "title": "4K",
+              "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/440580.ts"
+            },
             {
-              "title": "S2",
-              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798831.m3u8"
+              "title": "H265",
+              "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/391097.ts"
             }
           ]
         }
