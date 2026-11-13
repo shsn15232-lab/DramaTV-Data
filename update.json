@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "2.6",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.6/DramaTV.apk",
+  "versionCode": 18,
+  "versionName": "2.7",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.7/DramaTV.apk",
   "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
-  "changelog": "اضافه زر مشاركة للمسلسلات والافلام  مع اضافه صفحة لكل فيلم ",
+  "changelog": "تم تفعيل ميزة ارسال بلاغ او طلب مسلسل مع أضافة زر الاشعارات ",
   "forceUpdate": false
 }
