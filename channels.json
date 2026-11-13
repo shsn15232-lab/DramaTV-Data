@@ -8,7 +8,7 @@
       "logoUrl": "",
       "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/bein-sports.png",
       "subtitle": "",
-      "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/318197.ts",
+      "videoUrl": "https:\/\/vg162.adcdsd123321.shop\/7.m3u8",
       "referer": "",
       "servers": [
         {
@@ -22,6 +22,10 @@
             {
               "title": "H265",
               "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/391094.ts"
+            },
+            {
+              "title": "شغاله",
+              "videoUrl": "https:\/\/vg162.adcdsd123321.shop\/7.m3u8"
             }
           ]
         }
@@ -50,6 +54,10 @@
             {
               "title": "H265",
               "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/391095.ts"
+            },
+            {
+              "title": "شغال",
+              "videoUrl": "https:\/\/vg162.adcdsd123321.shop\/8.m3u8"
             }
           ]
         }
@@ -78,6 +86,10 @@
             {
               "title": "H265",
               "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/391096.ts"
+            },
+            {
+              "title": "شغال",
+              "videoUrl": "https:\/\/vg162.adcdsd123321.shop\/9.m3u8"
             }
           ]
         }
@@ -106,6 +118,10 @@
             {
               "title": "H265",
               "videoUrl": "http:\/\/lionsup.xyz:80\/live\/0566084413\/1394394776132208\/391097.ts"
+            },
+            {
+              "title": "شغال",
+              "videoUrl": "https:\/\/vg162.adcdsd123321.shop\/10.m3u8"
             }
           ]
         }
@@ -130,6 +146,10 @@
             {
               "title": "تلقائي",
               "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798833.m3u8"
+            },
+            {
+              "title": "شغال",
+              "videoUrl": "https:\/\/vg162.adcdsd123321.shop\/11.m3u8"
             }
           ]
         }
@@ -152,8 +172,8 @@
           "name": "السيرفر الأول",
           "qualities": [
             {
-              "title": "تلقائي",
-              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798834.m3u8"
+              "title": "شغال",
+              "videoUrl": "https:\/\/vg162.adcdsd123321.shop\/6.m3u8"
             }
           ]
         }
@@ -176,200 +196,8 @@
           "name": "السيرفر الأول",
           "qualities": [
             {
-              "title": "تلقائي",
-              "videoUrl": "http:\/\/mag.tiger-ott.net\/live\/KEBD2U\/7F8W2T\/798835.m3u8"
-            }
-          ]
-        }
-      ],
-      "enabled": true
-    },
-    {
-      "id": "aloan1",
-      "title": "ألاوان 1 4K",
-      "category": "section_1793041780086",
-      "group": "",
-      "logoUrl": "",
-      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
-      "subtitle": "",
-      "videoUrl": "",
-      "referer": "",
-      "servers": [
-        {
-          "id": "server1",
-          "name": "السيرفر الأول",
-          "qualities": [
-            {
-              "title": "4K",
-              "videoUrl": "https:\/\/alwan-sports.malsafty21.workers.dev\/channel1.m3u8"
-            }
-          ]
-        }
-      ],
-      "enabled": true
-    },
-    {
-      "id": "aloan2",
-      "title": "الوان 2",
-      "category": "section_1793041780086",
-      "group": "",
-      "logoUrl": "",
-      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
-      "subtitle": "",
-      "videoUrl": "",
-      "referer": "",
-      "servers": [
-        {
-          "id": "server1",
-          "name": "السيرفر الأول",
-          "qualities": [
-            {
-              "title": "4K",
-              "videoUrl": "http:\/\/coco3-cdn.cfd:8085\/alwan-2\/video.m3u8"
-            }
-          ]
-        }
-      ],
-      "enabled": true
-    },
-    {
-      "id": "aloan3",
-      "title": "الوان 3",
-      "category": "section_1793041780086",
-      "group": "",
-      "logoUrl": "",
-      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
-      "subtitle": "",
-      "videoUrl": "",
-      "referer": "",
-      "servers": [
-        {
-          "id": "server1",
-          "name": "السيرفر الأول",
-          "qualities": [
-            {
-              "title": "4K",
-              "videoUrl": "http:\/\/coco3-cdn.cfd:8085\/alwan-3\/video.m3u8"
-            }
-          ]
-        }
-      ],
-      "enabled": true
-    },
-    {
-      "id": "aloan4",
-      "title": "الوان 4",
-      "category": "section_1793041780086",
-      "group": "",
-      "logoUrl": "",
-      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
-      "subtitle": "",
-      "videoUrl": "",
-      "referer": "",
-      "servers": [
-        {
-          "id": "server1",
-          "name": "السيرفر الأول",
-          "qualities": [
-            {
-              "title": "4K",
-              "videoUrl": "http:\/\/coco3-cdn.cfd:8085\/alwan-4\/video.m3u8reds90"
-            }
-          ]
-        }
-      ],
-      "enabled": true
-    },
-    {
-      "id": "aloan5",
-      "title": "الوان 5",
-      "category": "section_1793041780086",
-      "group": "",
-      "logoUrl": "",
-      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
-      "subtitle": "",
-      "videoUrl": "",
-      "referer": "",
-      "servers": [
-        {
-          "id": "server1",
-          "name": "السيرفر الأول",
-          "qualities": [
-            {
-              "title": "4K",
-              "videoUrl": "http:\/\/coco3-cdn.cfd:8085\/alwan-5\/video.m3u8reds90"
-            }
-          ]
-        }
-      ],
-      "enabled": true
-    },
-    {
-      "id": "aloan6",
-      "title": "الوان 6",
-      "category": "section_1793041780086",
-      "group": "",
-      "logoUrl": "",
-      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
-      "subtitle": "",
-      "videoUrl": "",
-      "referer": "",
-      "servers": [
-        {
-          "id": "server1",
-          "name": "السيرفر الأول",
-          "qualities": [
-            {
-              "title": "4K",
-              "videoUrl": "http:\/\/coco3-cdn.cfd:8085\/alwan-6\/video.m3u8reds90"
-            }
-          ]
-        }
-      ],
-      "enabled": true
-    },
-    {
-      "id": "aloan7",
-      "title": "الوان 7",
-      "category": "section_1793041780086",
-      "group": "",
-      "logoUrl": "",
-      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
-      "subtitle": "",
-      "videoUrl": "",
-      "referer": "",
-      "servers": [
-        {
-          "id": "server1",
-          "name": "السيرفر الأول",
-          "qualities": [
-            {
-              "title": "4K",
-              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738888"
-            }
-          ]
-        }
-      ],
-      "enabled": true
-    },
-    {
-      "id": "aloan8",
-      "title": "الوان 8",
-      "category": "section_1793041780086",
-      "group": "",
-      "logoUrl": "",
-      "poster": "https:\/\/raw.githubusercontent.com\/shsn15232-lab\/DramaTV-Data\/main\/alwan-sports.png",
-      "subtitle": "",
-      "videoUrl": "",
-      "referer": "",
-      "servers": [
-        {
-          "id": "server1",
-          "name": "السيرفر الأول",
-          "qualities": [
-            {
-              "title": "4K",
-              "videoUrl": "http:\/\/1.sharkpro.ink\/0618103673\/3939354527\/738887"
+              "title": "شغال",
+              "videoUrl": "https:\/\/vg162.adcdsd123321.shop\/14.m3u8"
             }
           ]
         }
