@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.5/DramaTV.apk",
+  "versionCode": 17,
+  "versionName": "2.6",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.6/DramaTV.apk",
   "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
-  "changelog": "تصفية المسلسلات جميعها وحذف المسلسلات الغير مهمه ",
+  "changelog": "اضافه زر مشاركة للمسلسلات والافلام  مع اضافه صفحة لكل فيلم ",
   "forceUpdate": false
 }
