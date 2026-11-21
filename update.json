@@ -1,8 +1,8 @@
 
 {
-  "versionCode": 20,
-  "versionName": "2.9",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v2.0.9/DramaTV.apk",
+  "versionCode": 21,
+  "versionName": "3.0",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v3.0.0/DramaTV.apk",
   "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
   "changelog": "أضافة التكبير و التصغير بحجم الشاشة اثناء المشاهدة اضافة زر الحلقاتداخل المشاهدة لتغير الحلقة دون الخروج.",
   "forceUpdate": false
