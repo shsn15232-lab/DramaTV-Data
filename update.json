@@ -1,9 +1,9 @@
 
 {
-  "versionCode": 22,
-  "versionName": "3.1",
-  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v3.0.1/DramaTV.apk",
+  "versionCode": 23,
+  "versionName": "3.2",
+  "apkUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/download/v3.0.2/DramaTV.apk",
   "releaseUrl": "https://github.com/shsn15232-lab/DramaTV-Data/releases/tag/v1.0.4",
-  "changelog": "تحسينات وإضافات قوية ومفيدة داخل المشغل، اضافه ميزة تحميل فيلم او حلقة مسلسل تحسين واجهه الرئيسية تغير ااسم التطبيق  والكثير من المميزات",
+  "changelog": "تحسينات وسرعة وتحديث المحتوى",
   "forceUpdate": false
 }
